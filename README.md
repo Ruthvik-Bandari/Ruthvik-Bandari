@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Artificial Intelligence student from Sathyabama Institute of Science and Technology.<br>I am currently learning LLm models with Linux and Cybersecurity tools.
+I am an Artificial Intelligence student from Sathyabama Institute of Science and Technology.<br>I am currently learning LLm models with Linux and Cybersecurity tools.
 
 
 ## 🌐 Socials:
