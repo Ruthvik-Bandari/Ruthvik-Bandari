@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Artificial Intelligence student from Sathyabama Institute of Science and Technology.<br>I am currently learning LLm models with Linux and Cybersecurity tools.
+I am an Applied A.I student from Northeastern University.<br>I am currently learning to implement A.I tools to create solutions for realtime problems.
 
 
 ## 🌐 Socials:
