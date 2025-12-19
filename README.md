@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Applied A.I student from Northeastern University.<br>I am currently learning to implement A.I tools to create solutions for realtime problems.
+I am an Applied A.I student from Northeastern University.<br>I am currently learning to implement A.I tools to create solutions for realtime problems. Completed my first sem with 4GPA.
 
 
 ## 🌐 Socials:
