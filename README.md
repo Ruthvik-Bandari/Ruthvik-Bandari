@@ -1,6 +1,5 @@
 <div align="center">
   
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00E5FF&height=220&section=header&text=Ruthvik%20Nath%20Bandari&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20RAG%20%7C%20GNNs%20%7C%20Agentic%20AI&descSize=18&descAlignY=55&descColor=B3E5FC&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
@@ -47,7 +46,6 @@ research:
   - "NeuroFace Recognition System" — IOSR Journal (2025)
 open_source:
   - Instructor Python Library (PR #1968) — 2,300+ lines
-  - Hallucination detection & confidence scoring features
 motto: "I find solutions others miss."
 ```
 
@@ -145,326 +143,227 @@ motto: "I find solutions others miss."
 
 <table>
 <tr>
-<!-- ========== LANGUAGES ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== LANGUAGES ===== -->
+<td align="center" valign="top" width="33%">
 <h3>💻 Languages</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40"/><br/><sub>Python</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" height="40"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40"/><br/><sub>HTML5</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40"/><br/><sub>CSS3</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" height="40"/><br/><sub>C</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="32" height="32"/><br/><sub>Python</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="32" height="32"/><br/><sub>JS</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SQL-1565C0?style=flat-square&logo=postgresql&logoColor=white" height="20"/><br/><sub>SQL</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" height="32"/><br/><sub>HTML</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" height="40"/><br/><sub>PHP</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="40" height="40"/><br/><sub>PowerShell</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=latex&theme=dark" width="40" height="40"/><br/><sub>LaTeX</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40" height="40"/><br/><sub>Bash</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SQL-1565C0?style=flat-square&logo=postgresql&logoColor=white" height="24"/><br/><sub>SQL</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" height="32"/><br/><sub>CSS</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="32" height="32"/><br/><sub>Bash</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=latex&theme=dark" width="32" height="32"/><br/><sub>LaTeX</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="32" height="32"/><br/><sub>C</sub></td>
 </tr></table>
 </td>
-<!-- ========== AI/ML FRAMEWORKS ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== AI/ML ===== -->
+<td align="center" valign="top" width="33%">
 <h3>🧠 AI/ML Frameworks</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" height="40"/><br/><sub>PyTorch</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" height="40"/><br/><sub>TensorFlow</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="40" height="40"/><br/><sub>Scikit-Learn</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40" height="40"/><br/><sub>OpenCV</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/><br/><sub>Keras</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="32" height="32"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="32" height="32"/><br/><sub>TF</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="32" height="32"/><br/><sub>Sklearn</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="32" height="32"/><br/><sub>OpenCV</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/><br/><sub>HuggingFace</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/OX-0D47A1?style=flat-square&logo=onnx&logoColor=white" height="24"/><br/><sub>ONNX</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MN-1565C0?style=flat-square&logoColor=white" height="24"/><br/><sub>MONAI</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MNE-0D47A1?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>MNE-Python</sub></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="32" height="32"/><br/><sub>Keras</sub></td>
+<td align="center" width="65"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32"/><br/><sub>HF</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/OX-0D47A1?style=flat-square&logo=onnx&logoColor=white" height="20"/><br/><sub>ONNX</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/MN-1565C0?style=flat-square&logoColor=white" height="20"/><br/><sub>MONAI</sub></td>
 </tr></table>
 </td>
-</tr>
-<tr>
-<!-- ========== DEEP LEARNING ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== DEEP LEARNING ===== -->
+<td align="center" valign="top" width="33%">
 <h3>🔗 Deep Learning</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/D2-0D47A1?style=flat-square&logo=meta&logoColor=white" height="24"/><br/><sub>DINOv2</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/VT-1565C0?style=flat-square&logo=openai&logoColor=white" height="24"/><br/><sub>ViT</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/UN-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="24"/><br/><sub>U-Net</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/LR-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="24"/><br/><sub>LoRA</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CN-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="24"/><br/><sub>CNNs</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/D2-0D47A1?style=flat-square&logo=meta&logoColor=white" height="20"/><br/><sub>DINOv2</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/VT-1565C0?style=flat-square&logo=openai&logoColor=white" height="20"/><br/><sub>ViT</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/UN-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="20"/><br/><sub>U-Net</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/LR-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="20"/><br/><sub>LoRA</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/GN-1565C0?style=flat-square&logo=graphql&logoColor=white" height="24"/><br/><sub>GNNs</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/GS-0D47A1?style=flat-square&logo=graphql&logoColor=white" height="24"/><br/><sub>GraphSAGE</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/RL-1565C0?style=flat-square&logo=openai&logoColor=white" height="24"/><br/><sub>RL</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TL-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="24"/><br/><sub>Transfer</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/FT-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="24"/><br/><sub>Fine Tune</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MP-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="24"/><br/><sub>Mixed Prec</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/OP-1565C0?style=flat-square&logo=pytorch&logoColor=white" height="24"/><br/><sub>Optimization</sub></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/GS-0D47A1?style=flat-square&logo=graphql&logoColor=white" height="20"/><br/><sub>GraphSAGE</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/CN-1565C0?style=flat-square&logo=pytorch&logoColor=white" height="20"/><br/><sub>CNNs</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/GN-0D47A1?style=flat-square&logo=graphql&logoColor=white" height="20"/><br/><sub>GNNs</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/RL-1565C0?style=flat-square&logo=openai&logoColor=white" height="20"/><br/><sub>RL</sub></td>
 </tr></table>
 </td>
-<!-- ========== LLMs ========== -->
-<td align="center" valign="top" width="50%">
+</tr>
+<tr>
+<!-- ===== LLMs ===== -->
+<td align="center" valign="top" width="33%">
 <h3>🤖 LLMs & Agentic AI</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/LC-0D47A1?style=flat-square&logo=chainlink&logoColor=white" height="24"/><br/><sub>LangChain</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/RG-1565C0?style=flat-square&logo=databricks&logoColor=white" height="24"/><br/><sub>RAG</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/OA-0D47A1?style=flat-square&logo=openai&logoColor=white" height="24"/><br/><sub>OpenAI API</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/AN-1565C0?style=flat-square&logo=anthropic&logoColor=white" height="24"/><br/><sub>Anthropic</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PE-0D47A1?style=flat-square&logo=openai&logoColor=white" height="24"/><br/><sub>Prompting</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/LC-0D47A1?style=flat-square&logo=chainlink&logoColor=white" height="20"/><br/><sub>LangChain</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/RG-1565C0?style=flat-square&logo=databricks&logoColor=white" height="20"/><br/><sub>RAG</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/OA-0D47A1?style=flat-square&logo=openai&logoColor=white" height="20"/><br/><sub>OpenAI</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/AN-1565C0?style=flat-square&logo=anthropic&logoColor=white" height="20"/><br/><sub>Anthropic</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/HD-1565C0?style=flat-square&logo=shield&logoColor=white" height="24"/><br/><sub>Hallucinate</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MA-0D47A1?style=flat-square&logo=robot&logoColor=white" height="24"/><br/><sub>Multi Agent</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/LI-1565C0?style=flat-square&logo=lightning&logoColor=white" height="24"/><br/><sub>LLM Infer</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/WO-0D47A1?style=flat-square&logo=prefect&logoColor=white" height="24"/><br/><sub>Orchestrate</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/N8-1565C0?style=flat-square&logo=n8n&logoColor=white" height="24"/><br/><sub>n8n</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/PE-0D47A1?style=flat-square&logo=openai&logoColor=white" height="20"/><br/><sub>Prompting</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/HD-1565C0?style=flat-square&logo=shield&logoColor=white" height="20"/><br/><sub>Hallucinate</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/MA-0D47A1?style=flat-square&logo=robot&logoColor=white" height="20"/><br/><sub>Multi Agent</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/N8-1565C0?style=flat-square&logo=n8n&logoColor=white" height="20"/><br/><sub>n8n</sub></td>
 </tr></table>
 </td>
-</tr>
-<tr>
-<!-- ========== CV ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== CV ===== -->
+<td align="center" valign="top" width="33%">
 <h3>👁️ Computer Vision</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SG-0D47A1?style=flat-square&logo=opencv&logoColor=white" height="24"/><br/><sub>Segmentation</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/OD-1565C0?style=flat-square&logo=opencv&logoColor=white" height="24"/><br/><sub>Detection</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MI-0D47A1?style=flat-square&logo=heartpulse&logoColor=white" height="24"/><br/><sub>Med Imaging</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/AB-1565C0?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>Albumenta</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DA-0D47A1?style=flat-square&logo=image&logoColor=white" height="24"/><br/><sub>Augment</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SG-0D47A1?style=flat-square&logo=opencv&logoColor=white" height="20"/><br/><sub>Segment</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/OD-1565C0?style=flat-square&logo=opencv&logoColor=white" height="20"/><br/><sub>Detection</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/MI-0D47A1?style=flat-square&logo=heartpulse&logoColor=white" height="20"/><br/><sub>Med Image</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DA-1565C0?style=flat-square&logo=image&logoColor=white" height="20"/><br/><sub>Augment</sub></td>
+</tr><tr>
+<td align="center" width="65"><img src="https://img.shields.io/badge/TL-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="20"/><br/><sub>Transfer</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/FT-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="20"/><br/><sub>Fine Tune</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/MP-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="20"/><br/><sub>BFloat16</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/AB-1565C0?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>Albument</sub></td>
 </tr></table>
 </td>
-<!-- ========== NLP ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== NLP ===== -->
+<td align="center" valign="top" width="33%">
 <h3>📝 NLP</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/BR-0D47A1?style=flat-square&logo=google&logoColor=white" height="24"/><br/><sub>BERT</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DB-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="24"/><br/><sub>DistilBERT</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/BT-0D47A1?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>BERTopic</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/KB-1565C0?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>KeyBERT</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SA-0D47A1?style=flat-square&logo=textpattern&logoColor=white" height="24"/><br/><sub>Sentiment</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/BR-0D47A1?style=flat-square&logo=google&logoColor=white" height="20"/><br/><sub>BERT</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DB-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="20"/><br/><sub>DistilBERT</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/BT-0D47A1?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>BERTopic</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SA-1565C0?style=flat-square&logo=textpattern&logoColor=white" height="20"/><br/><sub>Sentiment</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TC-1565C0?style=flat-square&logo=textpattern&logoColor=white" height="24"/><br/><sub>Classify</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TM-0D47A1?style=flat-square&logo=databricks&logoColor=white" height="24"/><br/><sub>Topics</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/W2-1565C0?style=flat-square&logo=google&logoColor=white" height="24"/><br/><sub>Word2Vec</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/GV-0D47A1?style=flat-square&logo=stanford&logoColor=white" height="24"/><br/><sub>GloVe</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/NK-1565C0?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>NLTK</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SP-0D47A1?style=flat-square&logo=spacy&logoColor=white" height="24"/><br/><sub>SpaCy</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TK-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="24"/><br/><sub>Tokenize</sub></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/TM-0D47A1?style=flat-square&logo=databricks&logoColor=white" height="20"/><br/><sub>Topics</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/W2-1565C0?style=flat-square&logo=google&logoColor=white" height="20"/><br/><sub>Word2Vec</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/NK-0D47A1?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>NLTK</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SP-1565C0?style=flat-square&logo=spacy&logoColor=white" height="20"/><br/><sub>SpaCy</sub></td>
 </tr></table>
 </td>
 </tr>
 <tr>
-<!-- ========== ML TECHNIQUES ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🔬 ML & Data Science</h3>
+<!-- ===== ML TECHNIQUES ===== -->
+<td align="center" valign="top" width="33%">
+<h3>🔬 ML Techniques</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/RF-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="24"/><br/><sub>Rand Forest</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/LR-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="24"/><br/><sub>Regression</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/KM-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="24"/><br/><sub>K-Means</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/HB-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="24"/><br/><sub>HDBSCAN</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SH-0D47A1?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>SHAP</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/RF-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/><br/><sub>Rand Forest</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/KM-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/><br/><sub>K-Means</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/HB-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/><br/><sub>HDBSCAN</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SH-1565C0?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>SHAP</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CV-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="24"/><br/><sub>Cross Val</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/FE-0D47A1?style=flat-square&logo=databricks&logoColor=white" height="24"/><br/><sub>Feature Eng</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/ED-1565C0?style=flat-square&logo=pandas&logoColor=white" height="24"/><br/><sub>EDA</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/KF-0D47A1?style=flat-square&logo=scipy&logoColor=white" height="24"/><br/><sub>Kalman</sub></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/CV-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/><br/><sub>Cross Val</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/FE-1565C0?style=flat-square&logo=databricks&logoColor=white" height="20"/><br/><sub>Feature</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/ED-0D47A1?style=flat-square&logo=pandas&logoColor=white" height="20"/><br/><sub>EDA</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/KF-1565C0?style=flat-square&logo=scipy&logoColor=white" height="20"/><br/><sub>Kalman</sub></td>
 </tr></table>
 </td>
-<!-- ========== DATA TOOLS ========== -->
-<td align="center" valign="top" width="50%">
-<h3>📊 Data Tools</h3>
+<!-- ===== DATA TOOLS ===== -->
+<td align="center" valign="top" width="33%">
+<h3>📊 Data & Analytics</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/><sub>Pandas</sub></td>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/><br/><sub>NumPy</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PL-0D47A1?style=flat-square&logo=polars&logoColor=white" height="24"/><br/><sub>Polars</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PA-1565C0?style=flat-square&logo=apache&logoColor=white" height="24"/><br/><sub>PyArrow</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DD-0D47A1?style=flat-square&logo=duckdb&logoColor=white" height="24"/><br/><sub>DuckDB</sub></td>
+<td align="center" width="65"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32"/><br/><sub>Pandas</sub></td>
+<td align="center" width="65"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" height="32"/><br/><sub>NumPy</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/PL-0D47A1?style=flat-square&logo=polars&logoColor=white" height="20"/><br/><sub>Polars</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DD-1565C0?style=flat-square&logo=duckdb&logoColor=white" height="20"/><br/><sub>DuckDB</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/><sub>Matplotlib</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SB-1565C0?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>Seaborn</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PY-0D47A1?style=flat-square&logo=plotly&logoColor=white" height="24"/><br/><sub>Plotly</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TB-1565C0?style=flat-square&logo=tableau&logoColor=white" height="24"/><br/><sub>Tableau</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PB-0D47A1?style=flat-square&logo=powerbi&logoColor=white" height="24"/><br/><sub>Power BI</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/PY-0D47A1?style=flat-square&logo=plotly&logoColor=white" height="20"/><br/><sub>Plotly</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/TB-1565C0?style=flat-square&logo=tableau&logoColor=white" height="20"/><br/><sub>Tableau</sub></td>
+<td align="center" width="65"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="32" height="32"/><br/><sub>Matplotlib</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SB-0D47A1?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>Seaborn</sub></td>
 </tr></table>
 </td>
-</tr>
-<tr>
-<!-- ========== WEB & APIS ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== WEB ===== -->
+<td align="center" valign="top" width="33%">
 <h3>🌐 Web & APIs</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" height="40"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40" height="40"/><br/><sub>Flask</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" height="40"/><br/><sub>Django</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40"/><br/><sub>React</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40"/><br/><sub>Next.js</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="32" height="32"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="32" height="32"/><br/><sub>Flask</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32" height="32"/><br/><sub>React</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32" height="32"/><br/><sub>Next.js</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40"/><br/><sub>Tailwind</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40" height="40"/><br/><sub>Bootstrap</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=materialui&theme=dark" width="40" height="40"/><br/><sub>MUI</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="40" height="40"/><br/><sub>Three.js</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="40" height="40"/><br/><sub>WordPress</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/AP-0D47A1?style=flat-square&logo=fastapi&logoColor=white" height="24"/><br/><sub>REST API</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/WS-1565C0?style=flat-square&logo=socketdotio&logoColor=white" height="24"/><br/><sub>WebSocket</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/R3-0D47A1?style=flat-square&logo=threedotjs&logoColor=white" height="24"/><br/><sub>R3F</sub></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-</tr></table>
-</td>
-<!-- ========== SECURITY ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🔐 Security & Forensics</h3>
-<table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CS-0D47A1?style=flat-square&logo=hackaday&logoColor=white" height="24"/><br/><sub>CyberSec</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DF-1565C0?style=flat-square&logo=hackthebox&logoColor=white" height="24"/><br/><sub>Forensics</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/ZP-0D47A1?style=flat-square&logo=owasp&logoColor=white" height="24"/><br/><sub>OWASP</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/NM-1565C0?style=flat-square&logo=gnometerminal&logoColor=white" height="24"/><br/><sub>Nmap</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MW-0D47A1?style=flat-square&logo=virustotal&logoColor=white" height="24"/><br/><sub>Malware</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/NS-1565C0?style=flat-square&logo=wireshark&logoColor=white" height="24"/><br/><sub>NetSec</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TL-0D47A1?style=flat-square&logo=letsencrypt&logoColor=white" height="24"/><br/><sub>SSL/TLS</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/AE-1565C0?style=flat-square&logo=gnuprivacyguard&logoColor=white" height="24"/><br/><sub>AES-GCM</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CR-0D47A1?style=flat-square&logo=gnuprivacyguard&logoColor=white" height="24"/><br/><sub>Crypto</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/VS-1565C0?style=flat-square&logo=snyk&logoColor=white" height="24"/><br/><sub>Vuln Scan</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32" height="32"/><br/><sub>Tailwind</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="32" height="32"/><br/><sub>Three.js</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/WS-0D47A1?style=flat-square&logo=socketdotio&logoColor=white" height="20"/><br/><sub>WebSocket</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/AP-1565C0?style=flat-square&logo=fastapi&logoColor=white" height="20"/><br/><sub>REST API</sub></td>
 </tr></table>
 </td>
 </tr>
 <tr>
-<!-- ========== MLOPS ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🧪 MLOps & Code Quality</h3>
+<!-- ===== SECURITY ===== -->
+<td align="center" valign="top" width="33%">
+<h3>🔐 Security</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40"/><br/><sub>Docker</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40"/><br/><sub>Git</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40"/><br/><sub>GitHub</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40"/><br/><sub>Actions</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DV-0D47A1?style=flat-square&logo=dvc&logoColor=white" height="24"/><br/><sub>DVC</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/CS-0D47A1?style=flat-square&logo=hackaday&logoColor=white" height="20"/><br/><sub>CyberSec</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DF-1565C0?style=flat-square&logo=hackthebox&logoColor=white" height="20"/><br/><sub>Forensics</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/ZP-0D47A1?style=flat-square&logo=owasp&logoColor=white" height="20"/><br/><sub>OWASP</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/NM-1565C0?style=flat-square&logo=gnometerminal&logoColor=white" height="20"/><br/><sub>Nmap</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/WB-1565C0?style=flat-square&logo=weightsandbiases&logoColor=white" height="24"/><br/><sub>W&B</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PT-0D47A1?style=flat-square&logo=pytest&logoColor=white" height="24"/><br/><sub>pytest</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/RF-1565C0?style=flat-square&logo=ruff&logoColor=white" height="24"/><br/><sub>Ruff</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MY-0D47A1?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>MyPy</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PC-1565C0?style=flat-square&logo=precommit&logoColor=white" height="24"/><br/><sub>Pre-commit</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/PD-0D47A1?style=flat-square&logo=pandas&logoColor=white" height="24"/><br/><sub>Pandera</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CL-1565C0?style=flat-square&logo=python&logoColor=white" height="24"/><br/><sub>Cleanlab</sub></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/MW-0D47A1?style=flat-square&logo=virustotal&logoColor=white" height="20"/><br/><sub>Malware</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/TL-1565C0?style=flat-square&logo=letsencrypt&logoColor=white" height="20"/><br/><sub>SSL/TLS</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/AE-0D47A1?style=flat-square&logo=gnuprivacyguard&logoColor=white" height="20"/><br/><sub>AES-GCM</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/VS-1565C0?style=flat-square&logo=snyk&logoColor=white" height="20"/><br/><sub>Vuln Scan</sub></td>
 </tr></table>
 </td>
-<!-- ========== CLOUD ========== -->
-<td align="center" valign="top" width="50%">
-<h3>☁️ Cloud & Infra</h3>
+<!-- ===== MLOPS ===== -->
+<td align="center" valign="top" width="33%">
+<h3>🧪 MLOps & DevOps</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" height="40"/><br/><sub>AWS</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="40" height="40"/><br/><sub>GCP</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="40" height="40"/><br/><sub>Azure</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" height="40"/><br/><sub>Vercel</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="40" height="40"/><br/><sub>Netlify</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="32" height="32"/><br/><sub>Docker</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="32" height="32"/><br/><sub>Git</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" height="32"/><br/><sub>GitHub</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="32" height="32"/><br/><sub>Actions</sub></td>
 </tr><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="40" height="40"/><br/><sub>Cloudflare</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/A1-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="24"/><br/><sub>A100 GPU</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SL-1565C0?style=flat-square&logo=slurm&logoColor=white" height="24"/><br/><sub>SLURM</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/GP-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="24"/><br/><sub>GPU</sub></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DV-0D47A1?style=flat-square&logo=dvc&logoColor=white" height="20"/><br/><sub>DVC</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/WB-1565C0?style=flat-square&logo=weightsandbiases&logoColor=white" height="20"/><br/><sub>W&B</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/PT-0D47A1?style=flat-square&logo=pytest&logoColor=white" height="20"/><br/><sub>pytest</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/RF-1565C0?style=flat-square&logo=ruff&logoColor=white" height="20"/><br/><sub>Ruff</sub></td>
+</tr></table>
+</td>
+<!-- ===== CLOUD & TOOLS ===== -->
+<td align="center" valign="top" width="33%">
+<h3>☁️ Cloud & Tools</h3>
+<table><tr>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="32" height="32"/><br/><sub>AWS</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="32" height="32"/><br/><sub>GCP</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="32" height="32"/><br/><sub>Azure</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="32" height="32"/><br/><sub>Vercel</sub></td>
+</tr><tr>
+<td align="center" width="65"><img src="https://img.shields.io/badge/A1-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="20"/><br/><sub>A100</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SL-1565C0?style=flat-square&logo=slurm&logoColor=white" height="20"/><br/><sub>SLURM</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" height="32"/><br/><sub>VS Code</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/JP-0D47A1?style=flat-square&logo=jupyter&logoColor=white" height="20"/><br/><sub>Jupyter</sub></td>
 </tr></table>
 </td>
 </tr>
 <tr>
-<!-- ========== DATABASES ========== -->
-<td align="center" valign="top" width="50%">
+<!-- ===== DATABASES ===== -->
+<td align="center" valign="top" width="33%">
 <h3>🗄️ Databases</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40"/><br/><sub>PostgreSQL</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40"/><br/><sub>MySQL</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" height="40"/><br/><sub>MongoDB</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/MB-0D47A1?style=flat-square&logo=mariadb&logoColor=white" height="24"/><br/><sub>MariaDB</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/OR-1565C0?style=flat-square&logo=oracle&logoColor=white" height="24"/><br/><sub>Oracle</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DK-0D47A1?style=flat-square&logo=duckdb&logoColor=white" height="24"/><br/><sub>DuckDB</sub></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="32" height="32"/><br/><sub>Postgres</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32" height="32"/><br/><sub>MySQL</sub></td>
+<td align="center" width="65"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="32" height="32"/><br/><sub>MongoDB</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DK-0D47A1?style=flat-square&logo=duckdb&logoColor=white" height="20"/><br/><sub>DuckDB</sub></td>
 </tr></table>
 </td>
-<!-- ========== DEV TOOLS ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🔧 Dev Tools & IDEs</h3>
+<!-- ===== BCI & SPEECH ===== -->
+<td align="center" valign="top" width="33%">
+<h3>🧬 BCI & Audio</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" height="40"/><br/><sub>VS Code</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CU-0D47A1?style=flat-square&logo=cursor&logoColor=white" height="24"/><br/><sub>Cursor</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CC-1565C0?style=flat-square&logo=anthropic&logoColor=white" height="24"/><br/><sub>Claude Code</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/XC-0D47A1?style=flat-square&logo=xcode&logoColor=white" height="24"/><br/><sub>Xcode</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/JP-1565C0?style=flat-square&logo=jupyter&logoColor=white" height="24"/><br/><sub>Jupyter</sub></td>
-</tr><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" height="40"/><br/><sub>Postman</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="40" height="40"/><br/><sub>Anaconda</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="40" height="40"/><br/><sub>CMake</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="40" height="40"/><br/><sub>Arduino</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" height="40"/><br/><sub>Linux</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/BC-0D47A1?style=flat-square&logo=brainly&logoColor=white" height="20"/><br/><sub>BCI</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SP-1565C0?style=flat-square&logo=scipy&logoColor=white" height="20"/><br/><sub>Signal</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/WH-0D47A1?style=flat-square&logo=openai&logoColor=white" height="20"/><br/><sub>Whisper</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/TJ-1565C0?style=flat-square&logo=javascript&logoColor=white" height="20"/><br/><sub>Tone.js</sub></td>
 </tr></table>
 </td>
-</tr>
-<tr>
-<!-- ========== DESIGN ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🎨 Design & Viz</h3>
+<!-- ===== DATA ENG ===== -->
+<td align="center" valign="top" width="33%">
+<h3>🔄 Data Eng</h3>
 <table><tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40"/><br/><sub>Figma</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/CV-0D47A1?style=flat-square&logo=canva&logoColor=white" height="24"/><br/><sub>Canva</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/LR-1565C0?style=flat-square&logo=adobelightroom&logoColor=white" height="24"/><br/><sub>Lightroom</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/RC-0D47A1?style=flat-square&logo=d3dotjs&logoColor=white" height="24"/><br/><sub>Recharts</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/3D-1565C0?style=flat-square&logo=threedotjs&logoColor=white" height="24"/><br/><sub>3D Viz</sub></td>
-</tr></table>
-</td>
-<!-- ========== DATA ENG ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🔄 Data Engineering</h3>
-<table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DP-0D47A1?style=flat-square&logo=apacheairflow&logoColor=white" height="24"/><br/><sub>Pipelines</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/ET-1565C0?style=flat-square&logo=apachespark&logoColor=white" height="24"/><br/><sub>ETL</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/DI-0D47A1?style=flat-square&logo=apachekafka&logoColor=white" height="24"/><br/><sub>Ingestion</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SM-1565C0?style=flat-square&logo=liquibase&logoColor=white" height="24"/><br/><sub>Schema</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SV-0D47A1?style=flat-square&logo=pydantic&logoColor=white" height="24"/><br/><sub>Validate</sub></td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<!-- ========== BCI ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🧬 Signal & BCI</h3>
-<table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/BC-0D47A1?style=flat-square&logo=brainly&logoColor=white" height="24"/><br/><sub>BCI</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SP-1565C0?style=flat-square&logo=scipy&logoColor=white" height="24"/><br/><sub>Signal Proc</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SA-0D47A1?style=flat-square&logo=scipy&logoColor=white" height="24"/><br/><sub>Spectral</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/EC-1565C0?style=flat-square&logo=brainly&logoColor=white" height="24"/><br/><sub>ECoG</sub></td>
-<td align="center" width="80"></td>
-</tr></table>
-</td>
-<!-- ========== SPEECH ========== -->
-<td align="center" valign="top" width="50%">
-<h3>🎙️ Speech & Audio</h3>
-<table><tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/WH-0D47A1?style=flat-square&logo=openai&logoColor=white" height="24"/><br/><sub>Whisper</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/SR-1565C0?style=flat-square&logo=googletranslate&logoColor=white" height="24"/><br/><sub>Speech Rec</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/AU-0D47A1?style=flat-square&logo=audacity&logoColor=white" height="24"/><br/><sub>Audio</sub></td>
-<td align="center" width="80"><img src="https://img.shields.io/badge/TJ-1565C0?style=flat-square&logo=javascript&logoColor=white" height="24"/><br/><sub>Tone.js</sub></td>
-<td align="center" width="80"></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DP-0D47A1?style=flat-square&logo=apacheairflow&logoColor=white" height="20"/><br/><sub>Pipelines</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/ET-1565C0?style=flat-square&logo=apachespark&logoColor=white" height="20"/><br/><sub>ETL</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/DI-0D47A1?style=flat-square&logo=apachekafka&logoColor=white" height="20"/><br/><sub>Ingestion</sub></td>
+<td align="center" width="65"><img src="https://img.shields.io/badge/SV-1565C0?style=flat-square&logo=pydantic&logoColor=white" height="20"/><br/><sub>Validate</sub></td>
 </tr></table>
 </td>
 </tr>
 </table>
 
-<!-- METRICS: STARRED TOPICS -->
 <div align="center">
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.topics.svg" alt="Topics" width="100%"/>
 </div>
@@ -482,7 +381,7 @@ motto: "I find solutions others miss."
 </tr>
 <tr>
 <td>📗</td>
-<td><b>NeuroFace Recognition System</b><br/>IOSR Journal of Computer Engineering, Vol. 27, Issue 2, pp. 24-30, 2025<br/><i>Real-time multi-face recognition, 98%+ accuracy, <200ms latency</i></td>
+<td><b>NeuroFace Recognition System</b><br/>IOSR Journal of Computer Engineering, Vol. 27, Issue 2, pp. 24-30, 2025</td>
 </tr>
 </table>
 
@@ -493,47 +392,38 @@ motto: "I find solutions others miss."
 ## 📊 &nbsp;GitHub Stats & Activity
 
 <div align="center">
-  <h3>📅 Isometric Commit Calendar</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.isocalendar.svg" alt="Isometric Calendar" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>🈷️ Languages Activity</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.languages.svg" alt="Languages" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>💡 Coding Habits & Activity</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.habits.svg" alt="Habits" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>👨‍💻 Lines of Code Changed</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.lines.svg" alt="Lines" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.achievements.svg" alt="Achievements" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>🎩 Notable Contributions</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.notable.svg" alt="Notable" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>🌟 Recently Starred Repositories</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.stars.svg" alt="Stars" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>✨ Stargazers</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.stargazers.svg" alt="Stargazers" width="100%"/>
 </div>
 <br/>
 <div align="center">
-  <h3>📬 Issues & Pull Requests</h3>
   <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.followup.svg" alt="Follow-up" width="100%"/>
 </div>
 <br/>
@@ -580,7 +470,6 @@ motto: "I find solutions others miss."
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00E5FF&height=120&section=footer"/>
 
 </div>
