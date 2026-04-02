@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:00E5FF&height=220&section=header&text=Ruthvik%20Nath%20Bandari&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20RAG%20%7C%20GNNs%20%7C%20Agentic%20AI&descSize=18&descAlignY=55&descColor=B3E5FC&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=MS+in+Applied+AI+%40+Northeastern+%7C+4.0+GPA;Published+Researcher+(IEEE+TechRxiv)+%7C+Building+AI+That+Ships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=MS+in+Applied+AI+%40+Northeastern+%7C+4.0+GPA;IEEE+Published+%7C+Building+AI+That+Ships;CV+%C2%B7+NLP+%C2%B7+RAG+%C2%B7+GNNs+%C2%B7+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br/>
