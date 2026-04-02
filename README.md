@@ -153,15 +153,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">💻 Languages</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Python](https://img.shields.io/badge/Python-%230D47A1.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%231565C0.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230D47A1.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%231565C0.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%230D47A1.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%231565C0.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C](https://img.shields.io/badge/C-%230D47A1.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%231565C0.svg?style=for-the-badge&logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%230D47A1.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<img src="https://img.shields.io/badge/Python-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SQL-1565C0?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/JavaScript-0D47A1?style=flat-square&logo=javascript&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HTML5-1565C0?style=flat-square&logo=html5&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CSS3-0D47A1?style=flat-square&logo=css3&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LaTeX-1565C0?style=flat-square&logo=latex&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/C-0D47A1?style=flat-square&logo=c&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PHP-1565C0?style=flat-square&logo=php&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PowerShell-0D47A1?style=flat-square&logo=powershell&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -170,15 +170,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🧠 AI/ML Frameworks</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%230D47A1.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%231565C0.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%230D47A1.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%231565C0.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%230D47A1.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![MONAI](https://img.shields.io/badge/MONAI-%231565C0.svg?style=for-the-badge&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-%230D47A1.svg?style=for-the-badge&logo=onnx&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%231565C0.svg?style=for-the-badge&logo=keras&logoColor=white)
-![MNE-Python](https://img.shields.io/badge/MNE--Python-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/TensorFlow-1565C0?style=flat-square&logo=tensorflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HuggingFace-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenCV-0D47A1?style=flat-square&logo=opencv&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MONAI-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ONNX-0D47A1?style=flat-square&logo=onnx&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Keras-1565C0?style=flat-square&logo=keras&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MNE-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -187,15 +187,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">👁️ Computer Vision</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![DINOv2](https://img.shields.io/badge/DINOv2-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Vision Transformers](https://img.shields.io/badge/Vision%20Transformers-%231565C0.svg?style=for-the-badge&logoColor=white)
-![U-Net](https://img.shields.io/badge/U--Net-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Object Detection](https://img.shields.io/badge/Object%20Detection-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/DINOv2-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ViT-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/U--Net-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LoRA-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Segmentation-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Detection-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Medical%20Imaging-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Albumentations-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Augmentation-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -204,18 +204,18 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">📝 Natural Language Processing</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![BERT](https://img.shields.io/badge/BERT-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-%231565C0.svg?style=for-the-badge&logoColor=white)
-![BERTopic](https://img.shields.io/badge/BERTopic-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![KeyBERT](https://img.shields.io/badge/KeyBERT-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Text Classification](https://img.shields.io/badge/Text%20Classification-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-%231565C0.svg?style=for-the-badge&logoColor=white)
-![GloVe](https://img.shields.io/badge/GloVe-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-%231565C0.svg?style=for-the-badge&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Tokenization](https://img.shields.io/badge/Tokenization-%231565C0.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/BERT-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DistilBERT-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/BERTopic-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/KeyBERT-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Sentiment-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Classification-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Topic%20Modeling-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Word2Vec-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GloVe-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NLTK-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SpaCy-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tokenization-1565C0?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -224,16 +224,16 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🤖 LLMs & Agentic AI</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-%230D47A1.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-%231565C0.svg?style=for-the-badge&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%230D47A1.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic%20API-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Hallucination Detection](https://img.shields.io/badge/Hallucination%20Detection-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Multi Agent Systems](https://img.shields.io/badge/Multi%20Agent%20Systems-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![LLM Inference](https://img.shields.io/badge/LLM%20Inference-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Workflow Orchestration](https://img.shields.io/badge/Workflow%20Orchestration-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%231565C0.svg?style=for-the-badge&logo=n8n&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-0D47A1?style=flat-square&logo=chainlink&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RAG-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-0D47A1?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Anthropic-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Prompting-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hallucination-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Multi%20Agent-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LLM%20Inference-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Orchestration-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/n8n-1565C0?style=flat-square&logo=n8n&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -242,15 +242,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🔗 Deep Learning & Architectures</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Mixed Precision](https://img.shields.io/badge/Mixed%20Precision-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Model Optimization](https://img.shields.io/badge/Model%20Optimization-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Graph Neural Networks](https://img.shields.io/badge/GNNs-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![GraphSAGE](https://img.shields.io/badge/GraphSAGE-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Neural%20Nets-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CNNs-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Fine%20Tuning-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Mixed%20Precision-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Optimization-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GNNs-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GraphSAGE-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RL-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -259,16 +259,16 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">📊 Data Science & Analytics</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-%230D47A1.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%231565C0.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![PyArrow](https://img.shields.io/badge/PyArrow-%231565C0.svg?style=for-the-badge&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%231565C0.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%230D47A1.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%231565C0.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-0D47A1?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-1565C0?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Polars-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PyArrow-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DuckDB-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Matplotlib-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Seaborn-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Plotly-1565C0?style=flat-square&logo=plotly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tableau-0D47A1?style=flat-square&logo=tableau&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Power%20BI-1565C0?style=flat-square&logo=powerbi&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -277,15 +277,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🔬 ML Techniques</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Random Forest](https://img.shields.io/badge/Random%20Forest-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-%231565C0.svg?style=for-the-badge&logoColor=white)
-![K-Means](https://img.shields.io/badge/K--Means-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![HDBSCAN](https://img.shields.io/badge/HDBSCAN-%231565C0.svg?style=for-the-badge&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Cross Validation](https://img.shields.io/badge/Cross%20Validation-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Random%20Forest-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Regression-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/K--Means-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HDBSCAN-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SHAP-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cross%20Val-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Feature%20Eng-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/EDA-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Kalman-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -294,18 +294,18 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🌐 Web & API Development</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-%230D47A1.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%231565C0.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%230D47A1.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-%231565C0.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%230D47A1.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%231565C0.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%230D47A1.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-%231565C0.svg?style=for-the-badge&logo=mui&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%231565C0.svg?style=for-the-badge&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%231565C0.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-0D47A1?style=flat-square&logo=fastapi&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Flask-1565C0?style=flat-square&logo=flask&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Django-0D47A1?style=flat-square&logo=django&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/React-1565C0?style=flat-square&logo=react&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Next.js-0D47A1?style=flat-square&logo=next.js&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tailwind-1565C0?style=flat-square&logo=tailwind-css&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Bootstrap-0D47A1?style=flat-square&logo=bootstrap&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MUI-1565C0?style=flat-square&logo=mui&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/REST%20API-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/WebSocket-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/R3F-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/WordPress-1565C0?style=flat-square&logo=wordpress&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -314,16 +314,16 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🔐 Security & Forensics</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-%231565C0.svg?style=for-the-badge&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%230D47A1.svg?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-%231565C0.svg?style=for-the-badge&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![AES-GCM](https://img.shields.io/badge/AES--GCM-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-%231565C0.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Cybersecurity-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Forensics-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-0D47A1?style=flat-square&logo=owasp&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Nmap-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Malware-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NetSec-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SSL%2FTLS-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/AES--GCM-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Crypto-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Vuln%20Scan-1565C0?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -332,19 +332,19 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🧪 MLOps & Code Quality</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Docker](https://img.shields.io/badge/Docker-%230D47A1.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%231565C0.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%230D47A1.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%231565C0.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-%231565C0.svg?style=for-the-badge&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-%230D47A1.svg?style=for-the-badge&logo=weightsandbiases&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-%231565C0.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![MyPy](https://img.shields.io/badge/MyPy-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Pre-commit](https://img.shields.io/badge/Pre--commit-%230D47A1.svg?style=for-the-badge&logo=pre-commit&logoColor=white)
-![Pandera](https://img.shields.io/badge/Pandera-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Cleanlab](https://img.shields.io/badge/Cleanlab-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-0D47A1?style=flat-square&logo=docker&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Git-1565C0?style=flat-square&logo=git&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GitHub-0D47A1?style=flat-square&logo=github&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Actions-1565C0?style=flat-square&logo=githubactions&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DVC-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/W%26B-0D47A1?style=flat-square&logo=weightsandbiases&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/pytest-1565C0?style=flat-square&logo=pytest&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Ruff-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MyPy-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pre--commit-0D47A1?style=flat-square&logo=pre-commit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandera-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cleanlab-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -353,10 +353,10 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🧬 Signal Processing & BCI</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Brain Computer Interfaces](https://img.shields.io/badge/BCI-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Spectral Analysis](https://img.shields.io/badge/Spectral%20Analysis-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![ECoG Processing](https://img.shields.io/badge/ECoG%20Processing-%231565C0.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/BCI-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Signal%20Proc-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Spectral-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ECoG-1565C0?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -365,10 +365,10 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🎙️ Speech & Audio</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![OpenAI Whisper](https://img.shields.io/badge/OpenAI%20Whisper-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-%231565C0.svg?style=for-the-badge&logoColor=white)
-![Audio Processing](https://img.shields.io/badge/Audio%20Processing-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Tone.js](https://img.shields.io/badge/Tone.js-%231565C0.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Whisper-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Speech%20Rec-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Audio-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tone.js-1565C0?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -377,14 +377,14 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">☁️ Cloud & Infrastructure</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![AWS](https://img.shields.io/badge/AWS-%230D47A1.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%231565C0.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230D47A1.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%231565C0.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%230D47A1.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%231565C0.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![NVIDIA A100](https://img.shields.io/badge/A100%20GPU-%230D47A1.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM%20HPC-%231565C0.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-0D47A1?style=flat-square&logo=amazon-aws&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GCP-1565C0?style=flat-square&logo=google-cloud&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Azure-0D47A1?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Vercel-1565C0?style=flat-square&logo=vercel&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Netlify-0D47A1?style=flat-square&logo=netlify&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cloudflare-1565C0?style=flat-square&logo=cloudflare&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/A100%20GPU-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SLURM-1565C0?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -393,11 +393,11 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🗄️ Databases</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-%230D47A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%231565C0.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%230D47A1.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%231565C0.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-0D47A1?style=flat-square&logo=mysql&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MongoDB-1565C0?style=flat-square&logo=mongodb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MariaDB-0D47A1?style=flat-square&logo=mariadb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Oracle-1565C0?style=flat-square&logo=oracle&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DuckDB-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -406,15 +406,15 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🔧 Dev Tools & IDEs</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Cursor](https://img.shields.io/badge/Cursor-%230D47A1.svg?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%231565C0.svg?style=for-the-badge&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230D47A1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%231565C0.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%230D47A1.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%231565C0.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%230D47A1.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%231565C0.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%230D47A1.svg?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://img.shields.io/badge/Cursor-0D47A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Claude%20Code-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D47A1?style=flat-square&logo=visual-studio-code&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Xcode-1565C0?style=flat-square&logo=xcode&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Jupyter-0D47A1?style=flat-square&logo=jupyter&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Postman-1565C0?style=flat-square&logo=postman&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Anaconda-0D47A1?style=flat-square&logo=anaconda&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CMake-1565C0?style=flat-square&logo=cmake&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Arduino-0D47A1?style=flat-square&logo=arduino&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
@@ -423,11 +423,11 @@ motto: "I find solutions others miss."
 <tr><td colspan="2"><h3 align="center">🎨 Design & Visualization</h3></td></tr>
 <tr><td colspan="2" align="center">
 
-![Canva](https://img.shields.io/badge/Canva-%230D47A1.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%231565C0.svg?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%230D47A1.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-%231565C0.svg?style=for-the-badge&logoColor=white)
-![3D Visualization](https://img.shields.io/badge/3D%20Visualization-%230D47A1.svg?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Canva-0D47A1?style=flat-square&logo=canva&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Lightroom-1565C0?style=flat-square&logo=adobe-lightroom&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Three.js-0D47A1?style=flat-square&logo=three.js&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Recharts-1565C0?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/3D%20Viz-0D47A1?style=flat-square&logoColor=white" height="28"/>
 
 </td></tr>
 </table>
