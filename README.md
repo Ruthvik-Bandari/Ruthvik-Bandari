@@ -161,82 +161,178 @@ motto: "I find solutions others miss."
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI/ML"/>
 </a>
-
-`MONAI` `ONNX Runtime` `Keras` `MNE-Python` `Hugging Face` `DINOv2` `ViT` `U-Net` `LoRA` `GraphSAGE` `CNNs` `GNNs`
+<br/><br/>
+<img src="https://img.shields.io/badge/MONAI-0D47A1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMyAyMGgxOEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-0D47A1?style=flat-square&logo=onnx&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Keras-1565C0?style=flat-square&logo=keras&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MNE--Python-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hugging_Face-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DINOv2-0D47A1?style=flat-square&logo=meta&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ViT-1565C0?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/U--Net-0D47A1?style=flat-square&logo=pytorch&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LoRA-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GraphSAGE-0D47A1?style=flat-square&logo=graphql&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CNNs-1565C0?style=flat-square&logo=pytorch&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GNNs-0D47A1?style=flat-square&logo=graphql&logoColor=white" height="28"/>
 
 ### 🤖 LLMs & Agentic AI
-
-`LangChain` `RAG Pipelines` `OpenAI API` `Anthropic API` `Prompt Engineering` `Hallucination Detection` `Multi Agent Systems` `LLM Inference` `Orchestration` `n8n`
+<img src="https://img.shields.io/badge/LangChain-0D47A1?style=flat-square&logo=chainlink&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-1565C0?style=flat-square&logo=databricks&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI_API-0D47A1?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Anthropic_API-1565C0?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Prompt_Eng-0D47A1?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hallucination-1565C0?style=flat-square&logo=shield&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Multi_Agent-0D47A1?style=flat-square&logo=robots&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LLM_Inference-1565C0?style=flat-square&logo=lightning&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Orchestration-0D47A1?style=flat-square&logo=prefect&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/n8n-1565C0?style=flat-square&logo=n8n&logoColor=white" height="28"/>
 
 ### 👁️ Computer Vision
-
-`Image Segmentation` `Object Detection` `Medical Imaging` `Albumentations` `Data Augmentation` `Transfer Learning` `Fine Tuning` `Mixed Precision`
+<img src="https://img.shields.io/badge/Segmentation-0D47A1?style=flat-square&logo=opencv&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Object_Detection-1565C0?style=flat-square&logo=opencv&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Medical_Imaging-0D47A1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMyAyMGgxOEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Albumentations-1565C0?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Augmentation-0D47A1?style=flat-square&logo=image&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-1565C0?style=flat-square&logo=pytorch&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Fine_Tuning-0D47A1?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Mixed_Precision-1565C0?style=flat-square&logo=nvidia&logoColor=white" height="28"/>
 
 ### 📝 NLP
-
-`BERT` `DistilBERT` `BERTopic` `KeyBERT` `Sentiment Analysis` `Text Classification` `Topic Modeling` `Word2Vec` `GloVe` `NLTK` `SpaCy` `Tokenization`
+<img src="https://img.shields.io/badge/BERT-0D47A1?style=flat-square&logo=google&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DistilBERT-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/BERTopic-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/KeyBERT-1565C0?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Sentiment-0D47A1?style=flat-square&logo=textpattern&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Classification-1565C0?style=flat-square&logo=textpattern&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Topic_Modeling-0D47A1?style=flat-square&logo=databricks&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Word2Vec-1565C0?style=flat-square&logo=google&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GloVe-0D47A1?style=flat-square&logo=stanford&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NLTK-1565C0?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SpaCy-0D47A1?style=flat-square&logo=spacy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tokenization-1565C0?style=flat-square&logo=huggingface&logoColor=white" height="28"/>
 
 ### 🔬 ML & Data Science
-
-`Random Forest` `Linear Regression` `K-Means` `HDBSCAN` `SHAP` `Cross Validation` `Feature Engineering` `EDA` `Kalman Filter` `Reinforcement Learning`
+<img src="https://img.shields.io/badge/Random_Forest-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Regression-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/K--Means-0D47A1?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HDBSCAN-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SHAP-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cross_Val-1565C0?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Feature_Eng-0D47A1?style=flat-square&logo=databricks&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/EDA-1565C0?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Kalman-0D47A1?style=flat-square&logo=scipy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RL-1565C0?style=flat-square&logo=openai&logoColor=white" height="28"/>
 
 ### 📊 Data Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Data"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases"/>
 </a>
-
-`Pandas` `NumPy` `Polars` `PyArrow` `DuckDB` `Matplotlib` `Seaborn` `Plotly` `Tableau` `Power BI` `MariaDB` `Oracle`
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-0D47A1?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-1565C0?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Polars-0D47A1?style=flat-square&logo=polars&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PyArrow-1565C0?style=flat-square&logo=apache&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DuckDB-0D47A1?style=flat-square&logo=duckdb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Matplotlib-1565C0?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Seaborn-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Plotly-1565C0?style=flat-square&logo=plotly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tableau-0D47A1?style=flat-square&logo=tableau&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Power_BI-1565C0?style=flat-square&logo=powerbi&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MariaDB-0D47A1?style=flat-square&logo=mariadb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Oracle-1565C0?style=flat-square&logo=oracle&logoColor=white" height="28"/>
 
 ### 🌐 Web & API Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,tailwind,bootstrap,materialui,wordpress,threejs&theme=dark" alt="Web"/>
 </a>
-
-`REST APIs` `WebSocket` `React Three Fiber`
+<br/><br/>
+<img src="https://img.shields.io/badge/REST_APIs-0D47A1?style=flat-square&logo=fastapi&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/WebSocket-1565C0?style=flat-square&logo=socketdotio&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/React_Three_Fiber-0D47A1?style=flat-square&logo=threedotjs&logoColor=white" height="28"/>
 
 ### 🔐 Security & Forensics
+<img src="https://img.shields.io/badge/Cybersecurity-0D47A1?style=flat-square&logo=hackaday&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-1565C0?style=flat-square&logo=hackthebox&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0D47A1?style=flat-square&logo=owasp&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Nmap-1565C0?style=flat-square&logo=gnometerminal&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Malware-0D47A1?style=flat-square&logo=virustotal&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Network_Sec-1565C0?style=flat-square&logo=wireshark&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SSL%2FTLS-0D47A1?style=flat-square&logo=letsencrypt&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/AES--GCM-1565C0?style=flat-square&logo=gnuprivacyguard&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cryptography-0D47A1?style=flat-square&logo=gnuprivacyguard&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Vuln_Scan-1565C0?style=flat-square&logo=snyk&logoColor=white" height="28"/>
 
-`Cybersecurity` `Digital Forensics` `OWASP ZAP` `Nmap` `Malware Analysis` `Network Security` `SSL/TLS` `AES-GCM` `Cryptography` `Vuln Assessment`
-
-### 🧪 MLOps & DevOps
+### 🧪 MLOps & Code Quality
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" alt="MLOps"/>
 </a>
-
-`CI/CD` `DVC` `Weights & Biases` `pytest` `Ruff` `MyPy` `Pre-commit` `Pandera` `Cleanlab`
+<br/><br/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D47A1?style=flat-square&logo=githubactions&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DVC-1565C0?style=flat-square&logo=dvc&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/W%26B-0D47A1?style=flat-square&logo=weightsandbiases&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/pytest-1565C0?style=flat-square&logo=pytest&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Ruff-0D47A1?style=flat-square&logo=ruff&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MyPy-1565C0?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pre--commit-0D47A1?style=flat-square&logo=precommit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandera-1565C0?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cleanlab-0D47A1?style=flat-square&logo=python&logoColor=white" height="28"/>
 
 ### ☁️ Cloud & Infrastructure
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare&theme=dark" alt="Cloud"/>
 </a>
+<br/><br/>
+<img src="https://img.shields.io/badge/NVIDIA_A100-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SLURM_HPC-1565C0?style=flat-square&logo=slurm&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GPU_Computing-0D47A1?style=flat-square&logo=nvidia&logoColor=white" height="28"/>
 
-`NVIDIA A100` `SLURM HPC` `GPU Computing`
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-0D47A1?style=flat-square&logo=mysql&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MongoDB-1565C0?style=flat-square&logo=mongodb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MariaDB-0D47A1?style=flat-square&logo=mariadb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Oracle-1565C0?style=flat-square&logo=oracle&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DuckDB-0D47A1?style=flat-square&logo=duckdb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1565C0?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
 
 ### 🔧 Dev Tools & IDEs
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,arduino,cmake,linux&theme=dark" alt="Tools"/>
 </a>
-
-`Cursor` `Claude Code` `Xcode` `Jupyter`
+<br/><br/>
+<img src="https://img.shields.io/badge/Cursor-0D47A1?style=flat-square&logo=cursor&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Claude_Code-1565C0?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Xcode-0D47A1?style=flat-square&logo=xcode&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Jupyter-1565C0?style=flat-square&logo=jupyter&logoColor=white" height="28"/>
 
 ### 🎨 Design & Visualization
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design"/>
 </a>
-
-`Canva` `Adobe Lightroom` `Three.js` `Recharts` `3D Visualization`
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-0D47A1?style=flat-square&logo=canva&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Lightroom-1565C0?style=flat-square&logo=adobelightroom&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Three.js-0D47A1?style=flat-square&logo=threedotjs&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Recharts-1565C0?style=flat-square&logo=d3dotjs&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/3D_Viz-0D47A1?style=flat-square&logo=threedotjs&logoColor=white" height="28"/>
 
 ### 🔄 Data Engineering
-
-`Data Pipelines` `ETL` `Data Ingestion` `Schema Migration` `Schema Validation`
+<img src="https://img.shields.io/badge/Pipelines-0D47A1?style=flat-square&logo=apacheairflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ETL-1565C0?style=flat-square&logo=apachespark&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Ingestion-0D47A1?style=flat-square&logo=apachekafka&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Schema_Migration-1565C0?style=flat-square&logo=liquibase&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Validation-0D47A1?style=flat-square&logo=pydantic&logoColor=white" height="28"/>
 
 ### 🧬 Signal Processing & BCI
-
-`Brain Computer Interfaces` `Signal Processing` `Spectral Analysis` `ECoG Processing`
+<img src="https://img.shields.io/badge/BCI-0D47A1?style=flat-square&logo=brainly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Signal_Processing-1565C0?style=flat-square&logo=scipy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Spectral-0D47A1?style=flat-square&logo=scipy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ECoG-1565C0?style=flat-square&logo=brainly&logoColor=white" height="28"/>
 
 ### 🎙️ Speech & Audio
-
-`OpenAI Whisper` `Speech Recognition` `Audio Processing` `Tone.js`
+<img src="https://img.shields.io/badge/Whisper-0D47A1?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Speech_Rec-1565C0?style=flat-square&logo=googletranslate&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Audio-0D47A1?style=flat-square&logo=audacity&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tone.js-1565C0?style=flat-square&logo=javascript&logoColor=white" height="28"/>
 
 </div>
 
@@ -340,8 +436,7 @@ motto: "I find solutions others miss."
 
 <br/>
 
-<!-- TRADITIONAL GITHUB STATS (Fallback / Extras) -->
-<!-- Replace with your own Vercel deployments -->
+<!-- TRADITIONAL GITHUB STATS -->
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruthvik-Bandari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=1565C0&text_color=B3E5FC&ring_color=00E5FF" alt="GitHub Stats"/>
