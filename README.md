@@ -19,7 +19,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Ruthvik-Bandari&style=for-the-badge&color=0D47A1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -147,152 +146,118 @@ motto: "I find solutions others miss."
 
 ## 🛠️ &nbsp;Tech Stack
 
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
+<div align="center">
 
-### 💻 Languages
+<!-- ROW 1 -->
+<table><tr><td align="center"><h3>💻 Languages</h3>
 
 `Python` `SQL` `JavaScript` `HTML5` `CSS3` `LaTeX` `C` `PHP` `PowerShell`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🧠 AI/ML Frameworks
+<table><tr><td align="center"><h3>🧠 AI/ML Frameworks</h3>
 
 `PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face` `OpenCV` `MONAI` `ONNX Runtime` `Keras` `MNE-Python`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 👁️ Computer Vision
+<table><tr><td align="center"><h3>👁️ Computer Vision</h3>
 
 `DINOv2` `Vision Transformers` `U-Net` `LoRA` `Segmentation` `Object Detection` `Medical Imaging` `Albumentations` `Data Augmentation`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 📝 NLP
+<table><tr><td align="center"><h3>📝 Natural Language Processing</h3>
 
 `BERT` `DistilBERT` `BERTopic` `KeyBERT` `Sentiment Analysis` `Text Classification` `Topic Modeling` `Word2Vec` `GloVe` `NLTK` `SpaCy` `Tokenization`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🤖 LLMs & Agentic AI
+<table><tr><td align="center"><h3>🤖 LLMs & Agentic AI</h3>
 
 `LangChain` `RAG Pipelines` `OpenAI API` `Anthropic API` `Prompt Engineering` `Hallucination Detection` `Multi Agent Systems` `LLM Inference` `Orchestration` `n8n`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🔗 Deep Learning
+<table><tr><td align="center"><h3>🔗 Deep Learning & Architectures</h3>
 
 `Neural Networks` `CNNs` `Transfer Learning` `Fine Tuning` `Mixed Precision` `Model Optimization` `GNNs` `GraphSAGE` `Reinforcement Learning`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 📊 Data Science & Analytics
+<table><tr><td align="center"><h3>📊 Data Science & Analytics</h3>
 
 `Pandas` `NumPy` `Polars` `PyArrow` `DuckDB` `Matplotlib` `Seaborn` `Plotly` `Tableau` `Power BI`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🔬 ML Techniques
+<table><tr><td align="center"><h3>🔬 ML Techniques</h3>
 
 `Random Forest` `Linear Regression` `K-Means` `HDBSCAN` `SHAP` `Cross Validation` `Feature Engineering` `EDA` `Kalman Filter`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🌐 Web & APIs
+<table><tr><td align="center"><h3>🌐 Web & API Development</h3>
 
 `FastAPI` `Flask` `Django` `React` `Next.js` `Tailwind CSS` `Bootstrap` `Material UI` `REST APIs` `WebSocket` `React Three Fiber` `WordPress`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🔐 Security & Forensics
+<table><tr><td align="center"><h3>🔐 Security & Forensics</h3>
 
 `Cybersecurity` `Digital Forensics` `OWASP ZAP` `Nmap` `Malware Analysis` `Network Security` `SSL/TLS` `AES-GCM` `Cryptography` `Vuln Assessment`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🧪 MLOps & Code Quality
+<table><tr><td align="center"><h3>🧪 MLOps & Code Quality</h3>
 
 `Docker` `Git` `GitHub` `GitHub Actions` `CI/CD` `DVC` `Weights & Biases` `pytest` `Ruff` `MyPy` `Pre-commit` `Pandera` `Cleanlab`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🧬 Signal Processing & BCI
+<table><tr><td align="center"><h3>🧬 Signal Processing & BCI</h3>
 
 `Brain Computer Interfaces` `Signal Processing` `Spectral Analysis` `ECoG Processing` `Kalman Filter`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🎙️ Speech & Audio
+<table><tr><td align="center"><h3>🎙️ Speech & Audio</h3>
 
 `OpenAI Whisper` `Speech Recognition` `Audio Processing` `Tone.js`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### ☁️ Cloud & Infra
+<table><tr><td align="center"><h3>☁️ Cloud & Infrastructure</h3>
 
 `AWS` `Google Cloud` `Azure` `Vercel` `Netlify` `Cloudflare` `NVIDIA A100` `SLURM HPC`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🗄️ Databases
+<table><tr><td align="center"><h3>🗄️ Databases</h3>
 
 `MySQL` `MongoDB` `MariaDB` `Oracle` `DuckDB`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🔧 Dev Tools & IDEs
+<table><tr><td align="center"><h3>🔧 Dev Tools & IDEs</h3>
 
 `Cursor` `Claude Code` `VS Code` `Xcode` `Jupyter` `Postman` `Anaconda` `CMake` `Arduino`
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🎨 Design & Visualization
+<table><tr><td align="center"><h3>🎨 Design & Visualization</h3>
 
 `Canva` `Adobe Lightroom` `Three.js` `Recharts` `3D Visualization`
 
-</td>
-<td align="center" valign="top" width="50%">
+</td></tr></table>
 
-### 🔄 Data Engineering
+<table><tr><td align="center"><h3>🔄 Data Engineering</h3>
 
 `Data Pipelines` `ETL` `Data Ingestion` `Schema Migration` `Schema Validation`
 
-</td>
-</tr>
-</table>
+</td></tr></table>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:00E5FF&height=2&section=header"/>
