@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=MS+in+Applied+AI+%40+Northeastern+%7C+4.0+GPA;Published+Researcher+(IEEE+TechRxiv)+%7C+Building+AI+That+Ships" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL BADGES -->
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RuthvikNathBandari)
@@ -24,6 +23,11 @@
 </div>
 
 ---
+
+<!-- METRICS: PROFILE HEADER -->
+<div align="center">
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.header.svg" alt="GitHub Metrics" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:00E5FF&height=2&section=header"/>
@@ -148,115 +152,97 @@ motto: "I find solutions others miss."
 
 <div align="center">
 
-<!-- ROW 1 -->
-<table><tr><td align="center"><h3>💻 Languages</h3>
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,php,powershell,latex,bash&theme=dark" alt="Languages"/>
+</a>
 
-`Python` `SQL` `JavaScript` `HTML5` `CSS3` `LaTeX` `C` `PHP` `PowerShell`
+### 🧠 AI/ML & Deep Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI/ML"/>
+</a>
 
-</td></tr></table>
+`MONAI` `ONNX Runtime` `Keras` `MNE-Python` `Hugging Face` `DINOv2` `ViT` `U-Net` `LoRA` `GraphSAGE` `CNNs` `GNNs`
 
-<table><tr><td align="center"><h3>🧠 AI/ML Frameworks</h3>
-
-`PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face` `OpenCV` `MONAI` `ONNX Runtime` `Keras` `MNE-Python`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>👁️ Computer Vision</h3>
-
-`DINOv2` `Vision Transformers` `U-Net` `LoRA` `Segmentation` `Object Detection` `Medical Imaging` `Albumentations` `Data Augmentation`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>📝 Natural Language Processing</h3>
-
-`BERT` `DistilBERT` `BERTopic` `KeyBERT` `Sentiment Analysis` `Text Classification` `Topic Modeling` `Word2Vec` `GloVe` `NLTK` `SpaCy` `Tokenization`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🤖 LLMs & Agentic AI</h3>
+### 🤖 LLMs & Agentic AI
 
 `LangChain` `RAG Pipelines` `OpenAI API` `Anthropic API` `Prompt Engineering` `Hallucination Detection` `Multi Agent Systems` `LLM Inference` `Orchestration` `n8n`
 
-</td></tr></table>
+### 👁️ Computer Vision
 
-<table><tr><td align="center"><h3>🔗 Deep Learning & Architectures</h3>
+`Image Segmentation` `Object Detection` `Medical Imaging` `Albumentations` `Data Augmentation` `Transfer Learning` `Fine Tuning` `Mixed Precision`
 
-`Neural Networks` `CNNs` `Transfer Learning` `Fine Tuning` `Mixed Precision` `Model Optimization` `GNNs` `GraphSAGE` `Reinforcement Learning`
+### 📝 NLP
 
-</td></tr></table>
+`BERT` `DistilBERT` `BERTopic` `KeyBERT` `Sentiment Analysis` `Text Classification` `Topic Modeling` `Word2Vec` `GloVe` `NLTK` `SpaCy` `Tokenization`
 
-<table><tr><td align="center"><h3>📊 Data Science & Analytics</h3>
+### 🔬 ML & Data Science
 
-`Pandas` `NumPy` `Polars` `PyArrow` `DuckDB` `Matplotlib` `Seaborn` `Plotly` `Tableau` `Power BI`
+`Random Forest` `Linear Regression` `K-Means` `HDBSCAN` `SHAP` `Cross Validation` `Feature Engineering` `EDA` `Kalman Filter` `Reinforcement Learning`
 
-</td></tr></table>
+### 📊 Data Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Data"/>
+</a>
 
-<table><tr><td align="center"><h3>🔬 ML Techniques</h3>
+`Pandas` `NumPy` `Polars` `PyArrow` `DuckDB` `Matplotlib` `Seaborn` `Plotly` `Tableau` `Power BI` `MariaDB` `Oracle`
 
-`Random Forest` `Linear Regression` `K-Means` `HDBSCAN` `SHAP` `Cross Validation` `Feature Engineering` `EDA` `Kalman Filter`
+### 🌐 Web & API Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,tailwind,bootstrap,materialui,wordpress,threejs&theme=dark" alt="Web"/>
+</a>
 
-</td></tr></table>
+`REST APIs` `WebSocket` `React Three Fiber`
 
-<table><tr><td align="center"><h3>🌐 Web & API Development</h3>
-
-`FastAPI` `Flask` `Django` `React` `Next.js` `Tailwind CSS` `Bootstrap` `Material UI` `REST APIs` `WebSocket` `React Three Fiber` `WordPress`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🔐 Security & Forensics</h3>
+### 🔐 Security & Forensics
 
 `Cybersecurity` `Digital Forensics` `OWASP ZAP` `Nmap` `Malware Analysis` `Network Security` `SSL/TLS` `AES-GCM` `Cryptography` `Vuln Assessment`
 
-</td></tr></table>
+### 🧪 MLOps & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" alt="MLOps"/>
+</a>
 
-<table><tr><td align="center"><h3>🧪 MLOps & Code Quality</h3>
+`CI/CD` `DVC` `Weights & Biases` `pytest` `Ruff` `MyPy` `Pre-commit` `Pandera` `Cleanlab`
 
-`Docker` `Git` `GitHub` `GitHub Actions` `CI/CD` `DVC` `Weights & Biases` `pytest` `Ruff` `MyPy` `Pre-commit` `Pandera` `Cleanlab`
+### ☁️ Cloud & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare&theme=dark" alt="Cloud"/>
+</a>
 
-</td></tr></table>
+`NVIDIA A100` `SLURM HPC` `GPU Computing`
 
-<table><tr><td align="center"><h3>🧬 Signal Processing & BCI</h3>
+### 🔧 Dev Tools & IDEs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,arduino,cmake,linux&theme=dark" alt="Tools"/>
+</a>
 
-`Brain Computer Interfaces` `Signal Processing` `Spectral Analysis` `ECoG Processing` `Kalman Filter`
+`Cursor` `Claude Code` `Xcode` `Jupyter`
 
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🎙️ Speech & Audio</h3>
-
-`OpenAI Whisper` `Speech Recognition` `Audio Processing` `Tone.js`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>☁️ Cloud & Infrastructure</h3>
-
-`AWS` `Google Cloud` `Azure` `Vercel` `Netlify` `Cloudflare` `NVIDIA A100` `SLURM HPC`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🗄️ Databases</h3>
-
-`MySQL` `MongoDB` `MariaDB` `Oracle` `DuckDB`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🔧 Dev Tools & IDEs</h3>
-
-`Cursor` `Claude Code` `VS Code` `Xcode` `Jupyter` `Postman` `Anaconda` `CMake` `Arduino`
-
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🎨 Design & Visualization</h3>
+### 🎨 Design & Visualization
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design"/>
+</a>
 
 `Canva` `Adobe Lightroom` `Three.js` `Recharts` `3D Visualization`
 
-</td></tr></table>
-
-<table><tr><td align="center"><h3>🔄 Data Engineering</h3>
+### 🔄 Data Engineering
 
 `Data Pipelines` `ETL` `Data Ingestion` `Schema Migration` `Schema Validation`
 
-</td></tr></table>
+### 🧬 Signal Processing & BCI
 
+`Brain Computer Interfaces` `Signal Processing` `Spectral Analysis` `ECoG Processing`
+
+### 🎙️ Speech & Audio
+
+`OpenAI Whisper` `Speech Recognition` `Audio Processing` `Tone.js`
+
+</div>
+
+<!-- METRICS: STARRED TOPICS (Icons) -->
+<div align="center">
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.topics.svg" alt="Starred Topics" width="100%"/>
 </div>
 
 <div align="center">
@@ -280,24 +266,86 @@ motto: "I find solutions others miss."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:00E5FF&height=2&section=header"/>
 </div>
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats & Activity
 
-<!-- =============================================
-     VERCEL DEPLOYMENT INSTRUCTIONS:
-     Replace these URLs with your own Vercel deployments:
-     
-     1. github-readme-stats.vercel.app → YOUR-STATS-APP.vercel.app
-     2. nirzak-streak-stats.vercel.app → YOUR-STREAK-APP.vercel.app
-     ============================================= -->
+<!-- METRICS: ISOMETRIC COMMIT CALENDAR -->
+<div align="center">
+  <h3>📅 Isometric Commit Calendar</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.isocalendar.svg" alt="Isometric Calendar" width="100%"/>
+</div>
 
+<br/>
+
+<!-- METRICS: LANGUAGES ACTIVITY -->
+<div align="center">
+  <h3>🈷️ Languages Activity</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.languages.svg" alt="Languages" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: CODING HABITS -->
+<div align="center">
+  <h3>💡 Coding Habits & Activity</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.habits.svg" alt="Coding Habits" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: LINES OF CODE -->
+<div align="center">
+  <h3>👨‍💻 Lines of Code Changed</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.lines.svg" alt="Lines of Code" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: ACHIEVEMENTS -->
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.achievements.svg" alt="Achievements" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: NOTABLE CONTRIBUTIONS -->
+<div align="center">
+  <h3>🎩 Notable Contributions</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.notable.svg" alt="Notable" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: RECENTLY STARRED REPOS -->
+<div align="center">
+  <h3>🌟 Recently Starred Repositories</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.stars.svg" alt="Stars" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: STARGAZERS CHART -->
+<div align="center">
+  <h3>✨ Stargazers</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.stargazers.svg" alt="Stargazers" width="100%"/>
+</div>
+
+<br/>
+
+<!-- METRICS: FOLLOWUP (Issues & PRs) -->
+<div align="center">
+  <h3>📬 Issues & Pull Requests</h3>
+  <img src="https://github.com/Ruthvik-Bandari/Ruthvik-Bandari/blob/main/metrics.followup.svg" alt="Follow-up" width="100%"/>
+</div>
+
+<br/>
+
+<!-- TRADITIONAL GITHUB STATS (Fallback / Extras) -->
+<!-- Replace with your own Vercel deployments -->
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruthvik-Bandari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=1565C0&text_color=B3E5FC&ring_color=00E5FF" alt="GitHub Stats"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ruthvik-Bandari&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=B3E5FC&dates=1565C0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthvik-Bandari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=B3E5FC" alt="Top Languages"/>
 
 </div>
 
