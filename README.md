@@ -66,7 +66,7 @@ motto: "I find solutions others miss."
 ## Featured Projects
 
 ### CTPPO — Cyber Threat Prioritization with Proximal Policy Optimization
-GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs**. Published on IEEE TechRxiv. Presented to university leadership.
+GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs**.
 `Python` `PyTorch` `PyTorch Geometric` `Transformers` `Stable Baselines3`
 
 ### DiaFoot.AI v2 — Diabetic Foot Ulcer Segmentation
