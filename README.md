@@ -47,7 +47,7 @@ motto: "I find solutions others miss."
 
 ## Now
 
-- Completing Spring 2026 coursework at Northeastern: **Computer Vision (AAI 6640)** and **NLP (AAI 6620)**
+- Completing Spring 2026 coursework at Northeastern: **Computer Vision**, **Deep Learning**and **NLP**
 - Shipping **DiaFoot.AI v2**, a 3 stage cascaded pipeline (DINOv2 ViT B/14 triage → UPerNet segmenter → metrics extraction) trained on FUSeg
 - Applying to ML / AI internship and co op roles for Summer and Fall 2026
 - Exploring agentic AI systems, graph neural networks and RAG architectures
@@ -65,19 +65,19 @@ motto: "I find solutions others miss."
 
 ## Featured Projects
 
-### CTPPO — Cyber Threat Prioritization with Proximal Policy Optimization
+### CTPPO - Cyber Threat Prioritization with Proximal Policy Optimization
 GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs**.
 `Python` `PyTorch` `PyTorch Geometric` `Transformers` `Stable Baselines3`
 
-### DiaFoot.AI v2 — Diabetic Foot Ulcer Segmentation
+### DiaFoot.AI v2 - Diabetic Foot Ulcer Segmentation
 3 stage cascaded pipeline. On FUSeg (8,105 images): **89.12% Dice**, **82.87% IoU**, **98.36% classifier accuracy**, **4.5x ONNX inference speedup**. Beats FUSeg SOTA.
 `PyTorch` `DINOv2` `UPerNet` `ONNX` `FastAPI`
 
-### MindCare AI — Retrieval Augmented Mental Health Companion
+### MindCare AI - Retrieval Augmented Mental Health Companion
 RAG chatbot with cosine similarity retrieval and knowledge graph grounding for grounded, non hallucinated responses.
 `Python` `LangChain` `FAISS` `Neo4j` `OpenAI`
 
-### ScholarMine — Research Aggregation Pipeline
+### ScholarMine - Research Aggregation Pipeline
 HDBSCAN clustering over **5,000+ papers** pulled from OpenReview, OpenAlex and ArXiv. 16 person team project; contributed ingestion and clustering.
 `Python` `HDBSCAN` `Sentence Transformers` `Polars`
 
