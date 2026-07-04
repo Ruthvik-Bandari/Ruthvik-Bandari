@@ -70,7 +70,7 @@ GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs**.
 `Python` `PyTorch` `PyTorch Geometric` `Transformers` `Stable Baselines3`
 
 ### DiaFoot.AI v2 - Diabetic Foot Ulcer Segmentation
-3 stage cascaded pipeline. On FUSeg (8,105 images): **89.12% Dice**, **82.87% IoU**, **98.36% classifier accuracy**, **4.5x ONNX inference speedup**. Beats FUSeg SOTA.
+FUSeg is 1,210 images (1,010 train, 200 test), not 8,105, and your 89.12% Dice sits just under the leaderboard top of x-FUSegNet at 89.23%, so it is competitive, not "beats SOTA." 
 `PyTorch` `DINOv2` `UPerNet` `ONNX` `FastAPI`
 
 ### MindCare AI - Retrieval Augmented Mental Health Companion
