@@ -25,11 +25,11 @@
 
 ## Now
 
-&bull; Research Assistant at Northeastern University, building **RA Copilot**, a Canvas-embeddable RAG tutor for Regulatory Affairs (with Dr. Rominder Singh)<br/>
-&bull; Full-stack redesign and data-ingestion automation for a higher-education compliance web application at the Center for the Future of Higher Education and Work (CHEW)<br/>
+&bull; **Research Assistant**, Center for the Future of Higher Education and Work (CHEW), Northeastern: full-stack redesign and data-ingestion automation for a higher-education compliance web application<br/>
+&bull; **Research Assistant** for Dr. Rominder Singh, Northeastern: building **RA Copilot**, a Canvas-embeddable RAG tutor for Regulatory Affairs; earlier built the Global Drug Regulatory RAG dataset pipeline<br/>
 &bull; Shipping **DiaFoot.AI v2** and co-authoring a diabetic-foot-ulcer segmentation manuscript (in progress) with a Harvard collaborator, targeting SPIE Medical Imaging<br/>
 &bull; Exploring agentic AI systems, retrieval-augmented generation and graph learning<br/>
-&bull; Open to AI / ML internship and co-op opportunities
+&bull; Open to AI / ML **internship, co-op, and full-time** opportunities
 
 ---
 
@@ -50,7 +50,7 @@ A healthcare regulatory-intelligence pipeline spanning **199 countries and 200 a
 
 `Python` `BeautifulSoup4` `httpx` `SimHash` `langdetect`
 
-### Research Aggregation Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(solo)</sub>
+### Research Aggregation Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(team)</sub>
 A multi-source academic aggregator (arXiv, BioRxiv, PubMed, Google News) rebuilt in clean OOP with retrying abstract scrapers and TF-IDF + K-means clustering with automatic K selection. The rewrite hit a **73.8x speedup** (571.7s &rarr; 7.8s) and 3.3x finer clustering versus the manual baseline. Published on IEEE TechRxiv.
 
 `Python` `scikit-learn` `NLTK` `BeautifulSoup4` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/Research_aggeregation_pipeline) &nbsp;&middot;&nbsp; [Paper](https://doi.org/10.36227/techrxiv.177040642.26830215/v1)
@@ -117,8 +117,20 @@ GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs** to learn and rank cyb
 
 | Title | Venue | Year | Link |
 |---|---|---|---|
-| Automating Research Intelligence: AI-Generated vs Manually Designed Pipelines | IEEE TechRxiv | 2025 | [DOI](https://doi.org/10.36227/techrxiv.177040642.26830215/v1) |
+| Automating Research Intelligence: AI-Generated vs Manually Designed Pipelines | IEEE TechRxiv | 2026 | [DOI](https://doi.org/10.36227/techrxiv.177040642.26830215/v1) |
 | NeuroFace Recognition System | IOSR Journal of Computer Engineering, Vol. 27 Issue 2 | 2025 | [Journal](https://www.iosrjournals.org/) |
+
+---
+
+## Achievements
+
+| Achievement | Year |
+|---|---|
+| Best AI Innovation Award &middot; Lahey CARE-AI-THON | 2026 |
+| Runner-Up &middot; BASE 44 Hackathon | 2026 |
+| Finalist &middot; Subconscious AI &times; ACM Hackathon | 2025 |
+| ACM Student Chapter Lead | 2022&ndash;2025 |
+| Class Representative (4 years) | 2021&ndash;2025 |
 
 ---
 
