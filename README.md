@@ -13,9 +13,9 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/ruthvik-nath-bandari-908b00247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ruthvik-nath-bandari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://ruthvik-bandari-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:bandari.ru@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ruthvik299@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/itz_ruthvik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ruthvik-Bandari&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -23,42 +23,66 @@
 
 ---
 
+MS Applied AI at Northeastern (4.0 GPA, graduating May 2027). I work on medical imaging, retrieval systems, and security tooling, and most of what I build ends up being an argument about measurement: audit the split before you trust the benchmark, publish the negative result, put the isolation in the database instead of the application layer.
+
+Currently on co-op at Beth Israel Lahey Health building lung cancer screening tooling. First author on a medical imaging paper under review at SPIE, co-first author on a published TechRxiv preprint.
+
+**Open to new-grad AI/ML roles starting May 2027.** F-1 visa, STEM-designated degree (36 months of OPT, three H-1B lottery attempts).
+
+---
+
 ## Now
 
+&bull; **Student Intern, Innovation Hub** — Lahey Clinic, Beth Israel Lahey Health. Screening-eligibility and outreach prototype for low-dose CT lung cancer screening, working on synthetic clinical data<br/>
 &bull; **Research Assistant**, Center for the Future of Higher Education and Work (CHEW), Northeastern: full-stack redesign and data-ingestion automation for a higher-education compliance web application<br/>
 &bull; **Research Assistant** for Dr. Rominder Singh, Northeastern: building **RA Copilot**, a Canvas-embeddable RAG tutor for Regulatory Affairs; earlier built the Global Drug Regulatory RAG dataset pipeline<br/>
-&bull; Shipping **DiaFoot.AI v2** and co-authoring a diabetic-foot-ulcer segmentation manuscript (in progress) with a Harvard collaborator, targeting SPIE Medical Imaging<br/>
-&bull; Exploring agentic AI systems, retrieval-augmented generation and graph learning<br/>
-&bull; Open to AI / ML **internship, co-op, and full-time** opportunities
+&bull; Shipping **DiaFoot.AI v2** and first-authoring a diabetic-foot-ulcer segmentation manuscript with a Harvard Medical School collaborator, under review at SPIE Medical Imaging 2027
 
 ---
 
 ## Featured Projects
 
-### DiaFoot.AI &middot; Diabetic Foot Ulcer Intelligence &nbsp;<sub>(solo)</sub>
-A cascaded, multi-task computer-vision pipeline for diabetic foot images: a DINOv2 ViT-B/14 triage classifier (LoRA fine-tuned) &rarr; UPerNet wound segmenter &rarr; wound-area measurement in mm&sup2;, with image-quality gates and a defer-to-clinician path. Reaches **98.4% triage accuracy**, **0.999 macro-AUROC** and **DFU-only Dice 0.891** on leakage-audited splits, with an ONNX export validated at **99.99% mask parity** and **4.5x faster** inference. Trained on NVIDIA **B200** (MGHPCC) and **H200** (Northeastern Explorer) via SLURM.
+### DiaFoot.AI &middot; Diabetic Foot Ulcer Segmentation &nbsp;<sub>(first author)</sub>
 
-`PyTorch` `DINOv2` `UPerNet` `LoRA` `ONNX` `FastAPI` `SLURM` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/DiaFoot.AI)
+Does adding more wound data improve diabetic foot ulcer segmentation? It makes it worse, and the study holds architecture, hyperparameters, and epoch budget fixed to show it. **Five training compositions across three architectures under five-fold cross-validation — 75 trained models** on one leakage-controlled test set.
 
-### RA Copilot &middot; RAG Tutor for Regulatory Affairs &nbsp;<sub>(research, with Om Patel)</sub>
-A Canvas-embeddable text-and-voice RAG tutor running a five-stage **route &rarr; retrieve &rarr; generate &rarr; ground &rarr; frame** pipeline over a 611-chunk course knowledge base and an 11-module / 70-topic curriculum map. Hybrid retrieval (pgvector dense + BM25) with optional cross-encoder reranking and LettuceDetect / MiniCheck groundedness checks; a ports-and-adapters backend with a config-only GPU-to-CPU serving switch (vLLM + Qwen3). **201 passing backend tests** plus Playwright end-to-end coverage.
+The ordering `DFU+Healthy > DFU-only > All > DFU+Non-DFU > Random-mixed` came out identical for a convolutional encoder-decoder (U-Net++), a hierarchical transformer (SegFormer-B0), and a frozen self-supervised backbone (DINOv2), so the effect belongs to the data and not to any one inductive bias. The `All` composition trained on 5,497 images against DFU-only's 1,427, a 3.8× increase, and scored **lower on every architecture**. Adding non-DFU wounds pushed false positives on healthy skin to **44.8%** (SegFormer); in-domain healthy negatives held them **below 1%**.
+
+The curation is part of the contribution: a perceptual-hash audit found **96,829 near-duplicate train–test image pairs** in the naive split, and the rebuilt splits bring that to **zero** across path-overlap, content-hash, and near-duplicate checks. Paired bootstrap on per-image DFU Dice reached p < 0.05 in **44 of 45** fold-level comparisons.
+
+Also in the repo: a cascaded triage → segmentation → wound-area pipeline (DINOv2 ViT-B/14 with LoRA, UPerNet decoder, ONNX export), trained on NVIDIA B200 (MGHPCC) and H200 (Northeastern Explorer) under SLURM. Cascade metrics are documented but their result artifacts are not committed, so the composition study is the part with full provenance.
+
+`PyTorch` `DINOv2` `U-Net++` `SegFormer` `LoRA` `ONNX` `DVC` `SLURM` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/DiaFoot.AI)
+
+### CTPPO &middot; Cyber Threat Propagation Path Optimizer &nbsp;<sub>(solo)</sub>
+
+Scanners rank CVEs by severity. CTPPO asks which attack *path* an attacker can actually walk, and which single fix shrinks that exposure most. It runs **NAMOA\***, an exact multi-objective label-setting search, and returns the complete Pareto front over time-to-exploit, success probability, and business impact.
+
+Across 300 seeded networks the Pareto-recommended fix recovers **84.1% of oracle reachability reduction (95% CI [80.0, 87.9])** against **24.0% ([19.5, 28.8])** for ranking by CVSS severity. Edge costs are grounded in a committed snapshot of **340,247 FIRST EPSS scores** and **1,621 CISA KEV CVEs**, with CVSS v3.1 sub-scores implemented from the specification. Validated end to end against live exploitation: a real `nmap -sV` scan of an Apache httpd 2.4.49 testbed surfaced CVE-2021-41773, a working path-traversal proof of concept confirmed it, and the predicted path matched ground truth at recall 1.00.
+
+The GNN exploitability refiner ships **default-off**, because it changed the recommended fix in 0 of 60 real-CVE networks.
+
+`Python` `NAMOA*` `PyTorch Geometric` `FastAPI` `React 19` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/CTPPO-Cyber_Threat_Propagation_Path_Optimizer)
+
+### RA Copilot &middot; RAG Tutor for Regulatory Affairs &nbsp;<sub>(research)</sub>
+
+A Canvas-embeddable text-and-voice tutor running a five-stage **route → retrieve → generate → ground → frame** pipeline over a course knowledge base and a module-and-topic curriculum map. Hybrid retrieval (pgvector dense + BM25) with cross-encoder reranking and LettuceDetect / MiniCheck groundedness checks. Ports-and-adapters backend with a config-only GPU-to-CPU serving switch (vLLM + Qwen3), plus Playwright end-to-end coverage.
 
 `FastAPI` `pgvector` `BM25` `vLLM` `Qwen3` `React` `LTI 1.3`
 
 ### Global Drug Regulatory RAG Dataset Pipeline &nbsp;<sub>(research)</sub>
-A healthcare regulatory-intelligence pipeline spanning **199 countries and 200 authorities**. A five-stage clean &rarr; normalize &rarr; enrich &rarr; validate &rarr; export flow with a classifier and SimHash dedup gate produces **59,284 semantic chunks** across 9,321 validated documents (195/200 ISO codes reachable), backed by **539+ tests**.
 
-`Python` `BeautifulSoup4` `httpx` `SimHash` `langdetect`
+A healthcare regulatory-intelligence pipeline covering **199 countries and 200 regulatory authorities**, of which 195 are reachable. Five stages — clean → normalize → enrich → validate → export — with a human-medicines classifier and a SimHash dedup gate, plus a gap-filler that recovers unreachable authorities from WHO country profiles, ICH adoption records, and Wayback Machine snapshots. **1,350 test functions** across 34 test modules.
 
-### Research Aggregation Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(team)</sub>
-A multi-source academic aggregator (arXiv, BioRxiv, PubMed, Google News) rebuilt in clean OOP with retrying abstract scrapers and TF-IDF + K-means clustering with automatic K selection. The rewrite hit a **73.8x speedup** (571.7s &rarr; 7.8s) and 3.3x finer clustering versus the manual baseline. Published on IEEE TechRxiv.
+`Python` `Crawl4AI` `httpx` `BeautifulSoup4` `SimHash` `langdetect`
 
-`Python` `scikit-learn` `NLTK` `BeautifulSoup4` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/Research_aggeregation_pipeline) &nbsp;&middot;&nbsp; [Paper](https://doi.org/10.36227/techrxiv.177040642.26830215/v1)
+### Research Intelligence Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(co-first author)</sub>
 
-### CTPPO &middot; Cyber Threat Prioritization with PPO
-GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs** to learn and rank cyber-threat remediation paths.
+A 17-author study comparing AI-agent-generated research pipelines against manually designed ones. I am **listed first among 16 equal-contribution co-first authors**, and my contribution is **Pipeline 2's clustering stage and LinkedIn collection**: 5,028 items retrieved across arXiv, bioRxiv, PubMed, news, and LinkedIn, converging on **18 clusters** (largest 623 items, 15.5%) with cluster count chosen by silhouette scoring across 2–20 configurations, core analysis in 343 seconds.
 
-`Python` `PyTorch` `PyTorch Geometric` `Transformers` `Stable-Baselines3`
+The finding: no AI framework produced a working pipeline without substantial human intervention. The Claude-generated platform wrote 3,800+ lines across 31 files in eight minutes, then needed **35 hours of expert debugging** to reach basic functionality, against roughly 60 hours to build the pipeline manually from scratch.
+
+`Python` `scikit-learn` `NLTK` `BeautifulSoup4` &nbsp;&middot;&nbsp; [Paper](https://doi.org/10.36227/techrxiv.177040642.26830215/v1)
 
 ---
 
@@ -115,10 +139,10 @@ GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs** to learn and rank cyb
 
 ## Publications
 
-| Title | Venue | Year | Link |
+| Title | Venue | Status | Link |
 |---|---|---|---|
-| Automating Research Intelligence: AI-Generated vs Manually Designed Pipelines | IEEE TechRxiv | 2026 | [DOI](https://doi.org/10.36227/techrxiv.177040642.26830215/v1) |
-| NeuroFace Recognition System | IOSR Journal of Computer Engineering, Vol. 27 Issue 2 | 2025 | [Journal](https://www.iosrjournals.org/) |
+| Beyond Bigger Datasets: How Training Data Composition Influences Diabetic Foot Ulcer Segmentation | SPIE Medical Imaging 2027 | Under review (first author) | — |
+| Automating Research Intelligence: Advanced-AI-Generated vs Manually Designed Pipelines | IEEE TechRxiv | Preprint, 2026 (co-first author) | [DOI](https://doi.org/10.36227/techrxiv.177040642.26830215/v1) |
 
 ---
 
@@ -126,7 +150,7 @@ GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs** to learn and rank cyb
 
 | Achievement | Year |
 |---|---|
-| Best AI Innovation Award &middot; Lahey CARE-AI-THON | 2026 |
+| AI Innovation Award &middot; [Lahey Clinic Care-AI-thon](https://cps.northeastern.edu/news/when-45-minutes-was-all-they-needed-cps-students-win-lahey-clinic-care-ai-thon-2/) &mdash; only student team in the competition | 2026 |
 | Runner-Up &middot; BASE 44 Hackathon | 2026 |
 | Finalist &middot; Subconscious AI &times; ACM Hackathon | 2025 |
 | ACM Student Chapter Lead | 2022&ndash;2025 |
@@ -160,8 +184,6 @@ GraphSAGE + DistilBERT + Dueling DQN over **276,049 CVEs** to learn and rank cyb
 
 <div align="center">
 
-### Let's build something that matters
-
-<a href="mailto:bandari.ru@northeastern.edu"><img src="https://img.shields.io/badge/Reach%20out-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=white" alt="reach out"/></a>
+<a href="mailto:ruthvik299@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=white" alt="reach out"/></a>
 
 </div>
