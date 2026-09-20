@@ -42,6 +42,8 @@ Currently on co-op at Beth Israel Lahey Health building lung cancer screening to
 
 ## Featured Projects
 
+Ordered by depth of the work, not recency. The first six are the pinned repositories below.
+
 ### DiaFoot.AI &middot; Diabetic Foot Ulcer Segmentation &nbsp;<sub>(first author)</sub>
 
 Does adding more wound data improve diabetic foot ulcer segmentation? It makes it worse, and the study holds architecture, hyperparameters, and epoch budget fixed to show it. **Five training compositions across three architectures under five-fold cross-validation — 75 trained models** on one leakage-controlled test set.
@@ -64,6 +66,36 @@ The GNN exploitability refiner ships **default-off**, because it changed the rec
 
 `Python` `NAMOA*` `PyTorch Geometric` `FastAPI` `React 19` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/CTPPO-Cyber_Threat_Propagation_Path_Optimizer)
 
+### Research Intelligence Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(co-first author)</sub>
+
+A 17-author study comparing AI-agent-generated research pipelines against manually designed ones. I am **listed first among 16 equal-contribution co-first authors**, and my contribution is **Pipeline 2's clustering stage and LinkedIn collection**: 5,028 items retrieved across arXiv, bioRxiv, PubMed, news, and LinkedIn, converging on **18 clusters** (largest 623 items, 15.5%) with cluster count chosen by silhouette scoring across 2–20 configurations, core analysis in 343 seconds.
+
+The finding: no AI framework produced a working pipeline without substantial human intervention. The Claude-generated platform wrote 3,800+ lines across 31 files in eight minutes, then needed **35 hours of expert debugging** to reach basic functionality, against roughly 60 hours to build the pipeline manually from scratch.
+
+`Python` `scikit-learn` `NLTK` `BeautifulSoup4` &nbsp;&middot;&nbsp; [Paper](https://doi.org/10.36227/techrxiv.177040642.26830215/v1) &nbsp;&middot;&nbsp; [Related repository](https://github.com/Ruthvik-Bandari/Research_aggeregation_pipeline)
+
+### Blood Report Analyzer &nbsp;<sub>(hackathon finalist)</sub>
+
+Finalist at the **Subconscious AI &times; ACM Hackathon**. The interesting part is the orchestration: a TIM-GPT agent decides which tools to call and in what order rather than following a fixed script, calling three JSON-Schema-typed endpoints on a Hono server. Backed by a 46-biomarker reference database across 8 clinical categories and a 28-entry recommendation knowledge base, with five-level severity classification that checks critical thresholds before the low/high bands. Verified end to end on the committed fixture: 26 of 26 biomarkers extracted, 21 urgency-ranked recommendations generated.
+
+`TypeScript` `Hono` `Subconscious TIM-GPT` `Next.js` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/blood-report-analyzer)
+
+### Data Science & Visualization Portfolio
+
+Four end-to-end projects on public education data: schema harmonisation across 72+ CSVs and 3,055,192 rows with Polars and Pandera, predictive modelling with SHAP explainability, a BERTopic NLP pipeline, and aspect-level sentiment analysis over DuckDB. Four published Tableau dashboards, 47 tests, `uv` and Makefile-driven reproducibility. Each project's README states which numbers are measured and which are targets.
+
+`Polars` `DuckDB` `SHAP` `BERTopic` `Tableau` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/data-portfolio-ruthvik)
+
+### Language Mirror &middot; Language Tutor Trained From Scratch
+
+A multi-task transformer built rather than wrapped: RoPE positional encoding, SwiGLU activation and RMSNorm, with separate heads for grammar, pronunciation and response generation, trained by **PPO** with GAE against a simulated pedagogical environment carrying CEFR-aligned learner profiles. 45.6M parameters in the training architecture. Speech in and out via Whisper and edge-tts.
+
+`PyTorch` `PPO` `Transformers` `FastAPI` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/language-mirror)
+
+---
+
+**Research work in private repositories**
+
 ### RA Copilot &middot; RAG Tutor for Regulatory Affairs &nbsp;<sub>(research)</sub>
 
 A Canvas-embeddable text-and-voice tutor running a five-stage **route → retrieve → generate → ground → frame** pipeline over a course knowledge base and a module-and-topic curriculum map. Hybrid retrieval (pgvector dense + BM25) with cross-encoder reranking and LettuceDetect / MiniCheck groundedness checks. Ports-and-adapters backend with a config-only GPU-to-CPU serving switch (vLLM + Qwen3), plus Playwright end-to-end coverage.
@@ -76,15 +108,20 @@ A healthcare regulatory-intelligence pipeline covering **199 countries and 200 r
 
 `Python` `Crawl4AI` `httpx` `BeautifulSoup4` `SimHash` `langdetect`
 
-### Research Intelligence Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(co-first author)</sub>
-
-A 17-author study comparing AI-agent-generated research pipelines against manually designed ones. I am **listed first among 16 equal-contribution co-first authors**, and my contribution is **Pipeline 2's clustering stage and LinkedIn collection**: 5,028 items retrieved across arXiv, bioRxiv, PubMed, news, and LinkedIn, converging on **18 clusters** (largest 623 items, 15.5%) with cluster count chosen by silhouette scoring across 2–20 configurations, core analysis in 343 seconds.
-
-The finding: no AI framework produced a working pipeline without substantial human intervention. The Claude-generated platform wrote 3,800+ lines across 31 files in eight minutes, then needed **35 hours of expert debugging** to reach basic functionality, against roughly 60 hours to build the pipeline manually from scratch.
-
-`Python` `scikit-learn` `NLTK` `BeautifulSoup4` &nbsp;&middot;&nbsp; [Paper](https://doi.org/10.36227/techrxiv.177040642.26830215/v1)
-
 ---
+
+## All Repositories
+
+| Theme | Repositories |
+|---|---|
+| **Medical & healthcare AI** | [DiaFoot.AI](https://github.com/Ruthvik-Bandari/DiaFoot.AI) &middot; [blood-report-analyzer](https://github.com/Ruthvik-Bandari/blood-report-analyzer) &middot; [AAI6600 mental-health routing](https://github.com/Ruthvik-Bandari/AAI6600-Research-Aggregation-Pipeline) |
+| **Security** | [CTPPO](https://github.com/Ruthvik-Bandari/CTPPO-Cyber_Threat_Propagation_Path_Optimizer) &middot; [CyberSafeX](https://github.com/Ruthvik-Bandari/CyberSafeX-Detection-Suite) &middot; [BitShield / MIT Bitcoin Expo](https://github.com/Ruthvik-Bandari/MIT-BTC-Hackathon-Team_ACE) |
+| **ML & NLP** | [language-mirror](https://github.com/Ruthvik-Bandari/language-mirror) &middot; [Research aggregation pipeline](https://github.com/Ruthvik-Bandari/Research_aggeregation_pipeline) &middot; [Pizza chatbot](https://github.com/Ruthvik-Bandari/Natural_Language_Processing) |
+| **Data science** | [Data portfolio](https://github.com/Ruthvik-Bandari/data-portfolio-ruthvik) &middot; [Customer intelligence pipeline](https://github.com/Ruthvik-Bandari/Customer-intelligence-pipeline) |
+| **Computer vision** | [NeuroFace](https://github.com/Ruthvik-Bandari/NeuroFace-Recognition-System) &middot; [Image prompt generator](https://github.com/Ruthvik-Bandari/Image_Prompt_Generator) |
+| **Full stack** | [Task-app](https://github.com/Ruthvik-Bandari/Task-app) (React Native + NestJS) &middot; [Image prompt generator](https://github.com/Ruthvik-Bandari/Image_Prompt_Generator) (Spring Boot + React) |
+
+Browse by [topic](https://github.com/Ruthvik-Bandari?tab=repositories) &mdash; every public repository is tagged.
 
 ## Tech Stack
 
