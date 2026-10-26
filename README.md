@@ -42,7 +42,7 @@ Currently on co-op at Beth Israel Lahey Health building lung cancer screening to
 
 ## Featured Projects
 
-Ordered by depth of the work, not recency. The first six are the pinned repositories below.
+Ordered by depth of the work, not recency.
 
 ### DiaFoot.AI &middot; Diabetic Foot Ulcer Segmentation &nbsp;<sub>(first author)</sub>
 
@@ -56,15 +56,15 @@ Also in the repo: a cascaded triage → segmentation → wound-area pipeline (DI
 
 `PyTorch` `DINOv2` `U-Net++` `SegFormer` `LoRA` `ONNX` `DVC` `SLURM` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/DiaFoot.AI)
 
-### CTPPO &middot; Cyber Threat Propagation Path Optimizer &nbsp;<sub>(solo)</sub>
+### Kestrix &middot; Security Scanner and Claude Code Plugin &nbsp;<sub>(solo &middot; on PyPI)</sub>
 
-Scanners rank CVEs by severity. CTPPO asks which attack *path* an attacker can actually walk, and which single fix shrinks that exposure most. It runs **NAMOA\***, an exact multi-objective label-setting search, and returns the complete Pareto front over time-to-exploit, success probability, and business impact.
+AI coding assistants write code faster than anyone reviews it. Kestrix checks it as it is written. `kestrix-scan` is a **zero-dependency scanner with 146 rules across 13 languages**, plus secrets, CI and infrastructure files, and lockfiles checked offline against OSV. Its Claude Code plugin scans every file Claude edits so Claude fixes the findings in the same turn, and blocks known-malicious packages before an install runs.
 
-Across 300 seeded networks the Pareto-recommended fix recovers **84.1% of oracle reachability reduction (95% CI [80.0, 87.9])** against **24.0% ([19.5, 28.8])** for ranking by CVSS severity. Edge costs are grounded in a committed snapshot of **340,247 FIRST EPSS scores** and **1,621 CISA KEV CVEs**, with CVSS v3.1 sub-scores implemented from the specification. Validated end to end against live exploitation: a real `nmap -sV` scan of an Apache httpd 2.4.49 testbed surfaced CVE-2021-41773, a working path-traversal proof of concept confirmed it, and the predicted path matched ground truth at recall 1.00.
+Measured the way the rest of my work is: on real CVE fixes from CVEfixes and the GitHub Advisory Database, with project-disjoint splits, a claim file committed before each one-time held-out run, and repository-bootstrap intervals. Like every pattern tool on that benchmark it catches a small share, and the losses are published next to the wins: **Python 7.7% vs Bandit 10.2% at about a quarter of Bandit's false alarms**, Java/Kotlin 10.9% vs Opengrep 5.8%, C/C++ 3.4% vs flawfinder 19.4%. It raised fewer false alarms than every tool it was compared with.
 
-The GNN exploitability refiner ships **default-off**, because it changed the recommended fix in 0 of 60 real-CVE networks.
+The full `kestrix` workbench adds Sigma detection-rule repair replayed on a pinned Elasticsearch, explainable phishing analysis of saved emails, passive website checks, and file and URL forensics behind a local dashboard. Releases use PyPI trusted publishing with build provenance. On launch day CodeQL found a ReDoS in the install guard; it was reproduced, fixed and shipped as 0.1.1 the same day.
 
-`Python` `NAMOA*` `PyTorch Geometric` `FastAPI` `React 19` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/CTPPO-Cyber_Threat_Propagation_Path_Optimizer)
+`Python` `AST analysis` `OSV` `SARIF` `Claude Code hooks` `FastAPI` `React 19` &nbsp;&middot;&nbsp; [Repository](https://github.com/Ruthvik-Bandari/kestrix) &nbsp;&middot;&nbsp; [PyPI](https://pypi.org/project/kestrix-scan/) &nbsp;&middot;&nbsp; [Benchmark](https://github.com/Ruthvik-Bandari/kestrix/blob/main/docs/benchmarks/cvefixes.md)
 
 ### Research Intelligence Pipeline &middot; IEEE TechRxiv &nbsp;<sub>(co-first author)</sub>
 
@@ -115,7 +115,7 @@ A healthcare regulatory-intelligence pipeline covering **199 countries and 200 r
 | Theme | Repositories |
 |---|---|
 | **Medical & healthcare AI** | [DiaFoot.AI](https://github.com/Ruthvik-Bandari/DiaFoot.AI) &middot; [blood-report-analyzer](https://github.com/Ruthvik-Bandari/blood-report-analyzer) &middot; [AAI6600 mental-health routing](https://github.com/Ruthvik-Bandari/AAI6600-Research-Aggregation-Pipeline) |
-| **Security** | [CTPPO](https://github.com/Ruthvik-Bandari/CTPPO-Cyber_Threat_Propagation_Path_Optimizer) &middot; [CyberSafeX](https://github.com/Ruthvik-Bandari/CyberSafeX-Detection-Suite) &middot; [BitShield / MIT Bitcoin Expo](https://github.com/Ruthvik-Bandari/MIT-BTC-Hackathon-Team_ACE) |
+| **Security** | [Kestrix](https://github.com/Ruthvik-Bandari/kestrix) &middot; [Kestrix Claude Code plugin](https://github.com/Ruthvik-Bandari/kestrix-claude-plugin) &middot; [CyberSafeX](https://github.com/Ruthvik-Bandari/CyberSafeX-Detection-Suite) &middot; [BitShield / MIT Bitcoin Expo](https://github.com/Ruthvik-Bandari/MIT-BTC-Hackathon-Team_ACE) |
 | **ML & NLP** | [language-mirror](https://github.com/Ruthvik-Bandari/language-mirror) &middot; [Research aggregation pipeline](https://github.com/Ruthvik-Bandari/Research_aggeregation_pipeline) &middot; [Pizza chatbot](https://github.com/Ruthvik-Bandari/Natural_Language_Processing) |
 | **Data science** | [Data portfolio](https://github.com/Ruthvik-Bandari/data-portfolio-ruthvik) &middot; [Customer intelligence pipeline](https://github.com/Ruthvik-Bandari/Customer-intelligence-pipeline) |
 | **Computer vision** | [NeuroFace](https://github.com/Ruthvik-Bandari/NeuroFace-Recognition-System) &middot; [Image prompt generator](https://github.com/Ruthvik-Bandari/Image_Prompt_Generator) |
